@@ -1,19 +1,11 @@
 {
-  "name": "analisisfinanciero",
+  "name": "datasystementerprisesnode",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "start": "electron main.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://RQF7@bitbucket.org/RQF7/proyecto.administracionfinanciera.git"
-  },
-  "author": "Ricardo Quezada",
-  "license": "GPL-3.0",
-  "homepage": "https://bitbucket.org/RQF7/proyecto.administracionfinanciera#readme",
-  "devDependencies" : {
-  	"electron" : "~1.6.2"
-  }
+  "author": "",
+  "license": "ISC"
 }
