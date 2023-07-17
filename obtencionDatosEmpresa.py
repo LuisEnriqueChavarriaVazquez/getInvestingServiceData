@@ -24,7 +24,7 @@ def scrape_and_save_html(url):
         filename = url.split('/')[-1]
 
         # Save table HTML to a file
-        with open(filename + '.html', 'w', encoding='utf-8') as file:
+        with open('generatedFiles/' + filename + '.html', 'w', encoding='utf-8') as file:
             file.write(str(table))
         print(f"Table HTML content saved to '{filename}.html' file.")
     else:
@@ -32,10 +32,10 @@ def scrape_and_save_html(url):
 
 
 # Abrir el archivo JSON
-with open('balance-sheet.json', 'r') as file:
+with open('datos/balance-sheet.json', 'r') as file:
     data = json.load(file)
 
-with open('income-statement.json', 'r') as file:
+with open('datos/income-statement.json', 'r') as file:
     data_two = json.load(file)
 
 # Acceder a los valores dentro del JSON

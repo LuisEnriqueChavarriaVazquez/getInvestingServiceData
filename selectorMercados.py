@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import subprocess
 
 def get_href_from_urls(urls):
     href_list = []
@@ -46,3 +47,9 @@ with open('datos/income-statement.json', 'w') as file:
 data_two = {'href_attributes': modified_attributes_two}
 with open('datos/balance-sheet.json', 'w') as file:
     json.dump(data_two, file)
+
+
+#Corremos el programa para ejecutar la creación de words/json
+# Ejecutar el programa de Python
+subprocess.run(['python', 'obtencionDatosEmpresa.py'])
+
