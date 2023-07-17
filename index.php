@@ -21,7 +21,6 @@
 -->
 
 <?php
-    session_start();
     libxml_use_internal_errors(true);
 	error_reporting(E_ALL);
 ?>
