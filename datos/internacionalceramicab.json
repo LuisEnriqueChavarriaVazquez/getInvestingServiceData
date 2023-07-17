@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 9.6,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 2.91,
+            "calificacion": 4.17
+        },
+        "liquidez": {
+            "razonLiquidez": 3.81,
+            "pruebaAcido": 1.6,
+            "calificacion": 27.05
+        },
+        "endeudamiento": {
+            "apalancamiento": 58.04,
+            "apalancamientoAux": 41.96,
+            "coberturaIntereses": -5.23,
+            "calificacion": 5.8
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 114.61,
+            "rotacionCuentasPorPagar": 61.05,
+            "rotacionInventarios": 707.91,
+            "rotacionActivosTotales": 0.3,
+            "rotacionActivosFijos": 0.75,
+            "calificacion": 3.01
+        },
+        "calificacion": 112.44
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "1083.33",
+                "final": "1052.16"
+            },
+            "inventarios": {
+                "inicio": "4267.81",
+                "final": "3891.28"
+            },
+            "total": "6698.54"
+        },
+        "no_circulante": {
+            "total": 4515.179999999999
+        },
+        "total": "11213.72"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "672.57",
+                "final": "464.9"
+            },
+            "total": "1759.98"
+        },
+        "a_largo_plazo": {
+            "total": 4748.040000000001
+        },
+        "total": "6508.02"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "INTERNACIONAL CERAMICA B",
+    "ventas_netas": "3400.49",
+    "costo_de_ventas": "2103.42",
+    "utilidad_de_operacion": "385.67",
+    "utilidad_neta": "326.42",
+    "intereses": "-73.74"
+}

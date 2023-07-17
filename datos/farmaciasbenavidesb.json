@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 1.98,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 1.09,
+            "calificacion": 1.02
+        },
+        "liquidez": {
+            "razonLiquidez": 0.85,
+            "pruebaAcido": 0.24,
+            "calificacion": 5.45
+        },
+        "endeudamiento": {
+            "apalancamiento": 96.56,
+            "apalancamientoAux": 3.4399999999999977,
+            "coberturaIntereses": -2.25,
+            "calificacion": 9.66
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 40.44,
+            "rotacionCuentasPorPagar": 268.22,
+            "rotacionInventarios": 171.16,
+            "rotacionActivosTotales": 0.55,
+            "rotacionActivosFijos": 1.1,
+            "calificacion": 7.65
+        },
+        "calificacion": 47.4
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "341.83",
+                "final": "605.18"
+            },
+            "inventarios": {
+                "inicio": 0,
+                "final": "2758.28"
+            },
+            "total": "3866.74"
+        },
+        "no_circulante": {
+            "total": 3871.51
+        },
+        "total": "7738.25"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "3251.3",
+                "final": "3029.63"
+            },
+            "total": "4536.45"
+        },
+        "a_largo_plazo": {
+            "total": 2935.5
+        },
+        "total": "7471.95"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "FARMACIAS BENAVIDES B",
+    "ventas_netas": "4273.55",
+    "costo_de_ventas": "2941.04",
+    "utilidad_de_operacion": "220.23",
+    "utilidad_neta": "84.54",
+    "intereses": "-97.76"
+}

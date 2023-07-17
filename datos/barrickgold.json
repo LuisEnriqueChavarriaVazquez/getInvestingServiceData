@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 4.54,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.26,
+            "calificacion": 1.6
+        },
+        "liquidez": {
+            "razonLiquidez": 2.66,
+            "pruebaAcido": 2.07,
+            "calificacion": 23.65
+        },
+        "endeudamiento": {
+            "apalancamiento": 32.14,
+            "apalancamientoAux": 32.14,
+            "coberturaIntereses": -5.19,
+            "calificacion": 3.21
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 101.02,
+            "rotacionCuentasPorPagar": 220.27,
+            "rotacionInventarios": 349.67,
+            "rotacionActivosTotales": 0.06,
+            "rotacionActivosFijos": 0.07,
+            "calificacion": 4.22
+        },
+        "calificacion": 87.98999999999998
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "906",
+                "final": "557"
+            },
+            "inventarios": {
+                "inicio": "1781",
+                "final": "1913"
+            },
+            "total": "8538"
+        },
+        "no_circulante": {
+            "total": 37614
+        },
+        "total": "46152"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "1686",
+                "final": "1504"
+            },
+            "total": "3206"
+        },
+        "a_largo_plazo": {
+            "total": 11628
+        },
+        "total": "14834"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "BARRICK GOLD",
+    "ventas_netas": "2643",
+    "costo_de_ventas": "1928",
+    "utilidad_de_operacion": "509",
+    "utilidad_neta": "120",
+    "intereses": "-98"
+}

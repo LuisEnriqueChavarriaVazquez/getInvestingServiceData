@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 4.13,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.07,
+            "calificacion": 1.4
+        },
+        "liquidez": {
+            "razonLiquidez": 0.11,
+            "pruebaAcido": 0.11,
+            "calificacion": 1.1
+        },
+        "endeudamiento": {
+            "apalancamiento": 85.01,
+            "apalancamientoAux": 14.989999999999995,
+            "coberturaIntereses": 1000,
+            "calificacion": 8.5
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 657.64,
+            "rotacionCuentasPorPagar": 7815.42,
+            "rotacionInventarios": 0,
+            "rotacionActivosTotales": 0.02,
+            "rotacionActivosFijos": 0.02,
+            "calificacion": -73.89
+        },
+        "calificacion": -47.99
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": 0,
+                "final": "2571.66"
+            },
+            "inventarios": {
+                "inicio": 0,
+                "final": 0
+            },
+            "total": "3522.8"
+        },
+        "no_circulante": {
+            "total": 37019.149999999994
+        },
+        "total": "40541.95"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": 0,
+                "final": "30561.51"
+            },
+            "total": "31506.31"
+        },
+        "a_largo_plazo": {
+            "total": 2956.7099999999955
+        },
+        "total": "34463.02"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "GRUPO BURSATIL MEXICANO",
+    "ventas_netas": "713.65",
+    "costo_de_ventas": "651.2",
+    "utilidad_de_operacion": "99.35",
+    "utilidad_neta": "29.47",
+    "intereses": 0
+}

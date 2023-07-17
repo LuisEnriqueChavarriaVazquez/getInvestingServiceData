@@ -1,0 +1,19 @@
+{
+  "name": "analisisfinanciero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://RQF7@bitbucket.org/RQF7/proyecto.administracionfinanciera.git"
+  },
+  "author": "Ricardo Quezada",
+  "license": "GPL-3.0",
+  "homepage": "https://bitbucket.org/RQF7/proyecto.administracionfinanciera#readme",
+  "devDependencies" : {
+  	"electron" : "~1.6.2"
+  }
+}

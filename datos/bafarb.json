@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 14.73,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 3.4,
+            "calificacion": 6.04
+        },
+        "liquidez": {
+            "razonLiquidez": 1.82,
+            "pruebaAcido": 1.29,
+            "calificacion": 15.55
+        },
+        "endeudamiento": {
+            "apalancamiento": 59.71,
+            "apalancamientoAux": 40.29,
+            "coberturaIntereses": -8.47,
+            "calificacion": 5.97
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 175.95,
+            "rotacionCuentasPorPagar": 93.29,
+            "rotacionInventarios": 159.47,
+            "rotacionActivosTotales": 0.23,
+            "rotacionActivosFijos": 0.3,
+            "calificacion": 7.04
+        },
+        "calificacion": 89.79
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "3038.17",
+                "final": "2859.96"
+            },
+            "inventarios": {
+                "inicio": "2063.4",
+                "final": "1760.86"
+            },
+            "total": "6101.18"
+        },
+        "no_circulante": {
+            "total": 20410.64
+        },
+        "total": "26511.82"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "1692.78",
+                "final": "1434.34"
+            },
+            "total": "3358.46"
+        },
+        "a_largo_plazo": {
+            "total": 12472.990000000002
+        },
+        "total": "15831.45"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "BAFAR B",
+    "ventas_netas": "6117.66",
+    "costo_de_ventas": "4376.49",
+    "utilidad_de_operacion": "783.2",
+    "utilidad_neta": "901.08",
+    "intereses": "-92.46"
+}

@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 2.41,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 1.15,
+            "calificacion": 1.19
+        },
+        "liquidez": {
+            "razonLiquidez": 0.92,
+            "pruebaAcido": 0.35,
+            "calificacion": 6.35
+        },
+        "endeudamiento": {
+            "apalancamiento": 69.38,
+            "apalancamientoAux": 30.620000000000005,
+            "coberturaIntereses": -4.19,
+            "calificacion": 6.94
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 23.46,
+            "rotacionCuentasPorPagar": 158.46,
+            "rotacionInventarios": 151.81,
+            "rotacionActivosTotales": 0.48,
+            "rotacionActivosFijos": 0.63,
+            "calificacion": 8.57
+        },
+        "calificacion": 46.26
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "4138.59",
+                "final": "4144.55"
+            },
+            "inventarios": {
+                "inicio": "21039.49",
+                "final": "20160.09"
+            },
+            "total": "32877.68"
+        },
+        "no_circulante": {
+            "total": 101852.43
+        },
+        "total": "134730.11"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "30652.21",
+                "final": "25288.52"
+            },
+            "total": "35910.12"
+        },
+        "a_largo_plazo": {
+            "total": 57564.1
+        },
+        "total": "93474.22"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "GRUPO COMERCIAL CHEDRAUI B",
+    "ventas_netas": "64426.64",
+    "costo_de_ventas": "49529.27",
+    "utilidad_de_operacion": "3499.79",
+    "utilidad_neta": "1553.18",
+    "intereses": "-835.46"
+}

@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 18.02,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 2.73,
+            "calificacion": 6.92
+        },
+        "liquidez": {
+            "razonLiquidez": 0.99,
+            "pruebaAcido": 0.63,
+            "calificacion": 8.1
+        },
+        "endeudamiento": {
+            "apalancamiento": 36.19,
+            "apalancamientoAux": 36.19,
+            "coberturaIntereses": -7.88,
+            "calificacion": 3.62
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 144.88,
+            "rotacionCuentasPorPagar": 408.45,
+            "rotacionInventarios": 467.5,
+            "rotacionActivosTotales": 0.15,
+            "rotacionActivosFijos": 0.21,
+            "calificacion": 0.95
+        },
+        "calificacion": 60.17
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "8202.58",
+                "final": "8096.32"
+            },
+            "inventarios": {
+                "inicio": "12923.02",
+                "final": "13030.88"
+            },
+            "total": "35378.69"
+        },
+        "no_circulante": {
+            "total": 100088.03
+        },
+        "total": "135466.72"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "24328.53",
+                "final": "21623.08"
+            },
+            "total": "35632.38"
+        },
+        "a_largo_plazo": {
+            "total": 13397.480000000003
+        },
+        "total": "49029.86"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "AMBEV SA",
+    "ventas_netas": "20531.74",
+    "costo_de_ventas": "10131.68",
+    "utilidad_de_operacion": "4859.45",
+    "utilidad_neta": "3699.58",
+    "intereses": "-616.81"
+}

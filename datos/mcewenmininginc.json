@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": -123.97,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": -6.36,
+            "calificacion": -43.44
+        },
+        "liquidez": {
+            "razonLiquidez": 2.5,
+            "pruebaAcido": 2.24,
+            "calificacion": 23.7
+        },
+        "endeudamiento": {
+            "apalancamiento": 25.44,
+            "apalancamientoAux": 25.44,
+            "coberturaIntereses": 1000,
+            "calificacion": 2.54
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 28.04,
+            "rotacionCuentasPorPagar": 464.31,
+            "rotacionInventarios": 177.15,
+            "rotacionActivosTotales": 0.05,
+            "rotacionActivosFijos": 0.08,
+            "calificacion": 4.24
+        },
+        "calificacion": -93.33999999999997
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "2.87",
+                "final": "2.47"
+            },
+            "inventarios": {
+                "inicio": "31.74",
+                "final": "23.56"
+            },
+            "total": "223.47"
+        },
+        "no_circulante": {
+            "total": 454.2099999999999
+        },
+        "total": "677.68"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "42.41",
+                "final": "46"
+            },
+            "total": "89.39"
+        },
+        "a_largo_plazo": {
+            "total": 83.01
+        },
+        "total": "172.4"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "MCEWEN MINING INC",
+    "ventas_netas": "34.75",
+    "costo_de_ventas": "56.97",
+    "utilidad_de_operacion": "-39.37",
+    "utilidad_neta": "-43.08",
+    "intereses": 0
+}

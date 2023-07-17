@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 26.38,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.31,
+            "calificacion": 8.9
+        },
+        "liquidez": {
+            "razonLiquidez": 0.37,
+            "pruebaAcido": 0.37,
+            "calificacion": 3.7
+        },
+        "endeudamiento": {
+            "apalancamiento": 92.4,
+            "apalancamientoAux": 7.599999999999994,
+            "coberturaIntereses": 1000,
+            "calificacion": 9.24
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 106.33,
+            "rotacionCuentasPorPagar": 11693.2,
+            "rotacionInventarios": 1000,
+            "rotacionActivosTotales": 0.01,
+            "rotacionActivosFijos": 0.02,
+            "calificacion": -117.17
+        },
+        "calificacion": -51.99
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "8011",
+                "final": "8232"
+            },
+            "inventarios": {
+                "inicio": 0,
+                "final": 0
+            },
+            "total": "604464"
+        },
+        "no_circulante": {
+            "total": 1784028
+        },
+        "total": "2388492"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "871438",
+                "final": "914834"
+            },
+            "total": "1622793"
+        },
+        "a_largo_plazo": {
+            "total": 584180
+        },
+        "total": "2206973"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "ITAU UNIBANCO",
+    "ventas_netas": "27879",
+    "costo_de_ventas": 0,
+    "utilidad_de_operacion": "8479",
+    "utilidad_neta": "7355",
+    "intereses": 0
+}

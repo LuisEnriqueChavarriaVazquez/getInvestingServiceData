@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 2.97,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.28,
+            "calificacion": 1.08
+        },
+        "liquidez": {
+            "razonLiquidez": 0.89,
+            "pruebaAcido": 0.82,
+            "calificacion": 8.55
+        },
+        "endeudamiento": {
+            "apalancamiento": 72.19,
+            "apalancamientoAux": 27.810000000000002,
+            "coberturaIntereses": -2.69,
+            "calificacion": 7.22
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 370.05,
+            "rotacionCuentasPorPagar": 137.08,
+            "rotacionInventarios": 80.26,
+            "rotacionActivosTotales": 0.09,
+            "rotacionActivosFijos": 0.12,
+            "calificacion": 5.14
+        },
+        "calificacion": 49.55
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "9876",
+                "final": "10492"
+            },
+            "inventarios": {
+                "inicio": "1546",
+                "final": "1611"
+            },
+            "total": "21692"
+        },
+        "no_circulante": {
+            "total": 86635
+        },
+        "total": "108327"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "7545",
+                "final": 0
+            },
+            "total": "24388"
+        },
+        "a_largo_plazo": {
+            "total": 53818
+        },
+        "total": "78206"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "TELEFONICA ADR",
+    "ventas_netas": "10045",
+    "costo_de_ventas": "7179",
+    "utilidad_de_operacion": "715",
+    "utilidad_neta": "298",
+    "intereses": "-266"
+}

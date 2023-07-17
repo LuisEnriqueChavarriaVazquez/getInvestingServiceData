@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": -0.06,
+            "retornoSobreCC": -0.01,
+            "retornoSobreActivos": -0.01,
+            "calificacion": -0.03
+        },
+        "liquidez": {
+            "razonLiquidez": 1.97,
+            "pruebaAcido": 1.03,
+            "calificacion": 15
+        },
+        "endeudamiento": {
+            "apalancamiento": 43.72,
+            "apalancamientoAux": 43.72,
+            "coberturaIntereses": 1000,
+            "calificacion": 4.37
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 156.34,
+            "rotacionCuentasPorPagar": 116.63,
+            "rotacionInventarios": 368.5,
+            "rotacionActivosTotales": 0.09,
+            "rotacionActivosFijos": 0.11,
+            "calificacion": 4.59
+        },
+        "calificacion": 58.21
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "774.1",
+                "final": "577.8"
+            },
+            "inventarios": {
+                "inicio": "1391.1",
+                "final": "1533.7"
+            },
+            "total": "3216.2"
+        },
+        "no_circulante": {
+            "total": 13880.2
+        },
+        "total": "17096.4"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "471.8",
+                "final": "536.7"
+            },
+            "total": "1633.4"
+        },
+        "a_largo_plazo": {
+            "total": 5841.200000000001
+        },
+        "total": "7474.6"
+    },
+    "capital_contable": {
+        "total": "9621.8"
+    },
+    "nombre": "MOSAIC",
+    "ventas_netas": "1578.1",
+    "costo_de_ventas": "1448.5",
+    "utilidad_de_operacion": "30.1",
+    "utilidad_neta": "-0.9",
+    "intereses": 0
+}

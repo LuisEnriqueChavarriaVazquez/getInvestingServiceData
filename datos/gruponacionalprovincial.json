@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 7.56,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.78,
+            "calificacion": 2.78
+        },
+        "liquidez": {
+            "razonLiquidez": 5.58,
+            "pruebaAcido": 5.58,
+            "calificacion": 55.8
+        },
+        "endeudamiento": {
+            "apalancamiento": 92.06,
+            "apalancamientoAux": 7.939999999999998,
+            "coberturaIntereses": 1000,
+            "calificacion": 9.21
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 635.23,
+            "rotacionCuentasPorPagar": 77.82,
+            "rotacionInventarios": 0,
+            "rotacionActivosTotales": 0.1,
+            "rotacionActivosFijos": 0.14,
+            "calificacion": 3.91
+        },
+        "calificacion": 200.84999999999997
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "33964",
+                "final": "39627.62"
+            },
+            "inventarios": {
+                "inicio": 0,
+                "final": 0
+            },
+            "total": "52355.91"
+        },
+        "no_circulante": {
+            "total": 153310.28
+        },
+        "total": "205666.19"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "4713",
+                "final": "4302.07"
+            },
+            "total": "9385.85"
+        },
+        "a_largo_plazo": {
+            "total": 179946.75999999998
+        },
+        "total": "189332.61"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "GRUPO NACIONAL PROVINCIAL",
+    "ventas_netas": "21142.57",
+    "costo_de_ventas": "18819.52",
+    "utilidad_de_operacion": "1536.34",
+    "utilidad_neta": "1597.93",
+    "intereses": 0
+}

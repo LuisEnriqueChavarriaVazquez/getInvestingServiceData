@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 11.9,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 2.93,
+            "calificacion": 4.94
+        },
+        "liquidez": {
+            "razonLiquidez": 1.5,
+            "pruebaAcido": 1.28,
+            "calificacion": 13.9
+        },
+        "endeudamiento": {
+            "apalancamiento": 97.45,
+            "apalancamientoAux": 2.549999999999997,
+            "coberturaIntereses": -3.89,
+            "calificacion": 9.75
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 202.54,
+            "rotacionCuentasPorPagar": 224.25,
+            "rotacionInventarios": 194.84,
+            "rotacionActivosTotales": 0.25,
+            "rotacionActivosFijos": 0.56,
+            "calificacion": 5.39
+        },
+        "calificacion": 86.35000000000001
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "6972.36",
+                "final": "8064.35"
+            },
+            "inventarios": {
+                "inicio": "4598.31",
+                "final": "4611.81"
+            },
+            "total": "30730.22"
+        },
+        "no_circulante": {
+            "total": 24325.799999999996
+        },
+        "total": "55056.02"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "8252.65",
+                "final": "8396.37"
+            },
+            "total": "20440.07"
+        },
+        "a_largo_plazo": {
+            "total": 33211.6
+        },
+        "total": "53651.67"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "KIMBERLY-CLARK DE MEXICO B",
+    "ventas_netas": "13549.11",
+    "costo_de_ventas": "8626.63",
+    "utilidad_de_operacion": "2782.32",
+    "utilidad_neta": "1612.52",
+    "intereses": "-715.59"
+}

@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 1.02,
+            "retornoSobreCC": 1.33,
+            "retornoSobreActivos": 0.45,
+            "calificacion": 0.93
+        },
+        "liquidez": {
+            "razonLiquidez": 1.51,
+            "pruebaAcido": 0.89,
+            "calificacion": 12
+        },
+        "endeudamiento": {
+            "apalancamiento": 66.32,
+            "apalancamientoAux": 33.68000000000001,
+            "coberturaIntereses": 1000,
+            "calificacion": 6.63
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 264.67,
+            "rotacionCuentasPorPagar": 289.92,
+            "rotacionInventarios": 246.81,
+            "rotacionActivosTotales": 0.44,
+            "rotacionActivosFijos": 1.15,
+            "calificacion": 4.38
+        },
+        "calificacion": 57.36
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "1205.51",
+                "final": "1120.82"
+            },
+            "inventarios": {
+                "inicio": "855.3",
+                "final": "929.86"
+            },
+            "total": "2263.64"
+        },
+        "no_circulante": {
+            "total": 1391.9300000000003
+        },
+        "total": "3655.57"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "1315.38",
+                "final": "1232.87"
+            },
+            "total": "1495.33"
+        },
+        "a_largo_plazo": {
+            "total": 929.1500000000001
+        },
+        "total": "2424.48"
+    },
+    "capital_contable": {
+        "total": "1231.09"
+    },
+    "nombre": "POCHTECA B",
+    "ventas_netas": "1604.09",
+    "costo_de_ventas": "1320",
+    "utilidad_de_operacion": "49.38",
+    "utilidad_neta": "16.38",
+    "intereses": 0
+}

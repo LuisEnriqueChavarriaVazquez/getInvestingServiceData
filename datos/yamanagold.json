@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": -247.54,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": -17.55,
+            "calificacion": -88.36
+        },
+        "liquidez": {
+            "razonLiquidez": 1.44,
+            "pruebaAcido": 1,
+            "calificacion": 12.2
+        },
+        "endeudamiento": {
+            "apalancamiento": 42.75,
+            "apalancamientoAux": 42.75,
+            "coberturaIntereses": 138.6,
+            "calificacion": 4.28
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 3.43,
+            "rotacionCuentasPorPagar": 192.44,
+            "rotacionInventarios": 369.95,
+            "rotacionActivosTotales": 0.07,
+            "rotacionActivosFijos": 0.08,
+            "calificacion": 5.29
+        },
+        "calificacion": -302.99
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "4.8",
+                "final": "3.8"
+            },
+            "inventarios": {
+                "inicio": "202.1",
+                "final": "209.2"
+            },
+            "total": "697"
+        },
+        "no_circulante": {
+            "total": 5754.5
+        },
+        "total": "6451.5"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "273.1",
+                "final": "209.1"
+            },
+            "total": "485.5"
+        },
+        "a_largo_plazo": {
+            "total": 2272.6
+        },
+        "total": "2758.1"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "YAMANA GOLD",
+    "ventas_netas": "457.3",
+    "costo_de_ventas": "202.9",
+    "utilidad_de_operacion": "-1815.7",
+    "utilidad_neta": "-1132",
+    "intereses": "-13.1"
+}

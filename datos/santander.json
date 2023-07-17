@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 0,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0,
+            "calificacion": 0
+        },
+        "liquidez": {
+            "razonLiquidez": 5.54,
+            "pruebaAcido": 5.54,
+            "calificacion": 55.4
+        },
+        "endeudamiento": {
+            "apalancamiento": -652.9,
+            "apalancamientoAux": -652.9,
+            "coberturaIntereses": 0.29,
+            "calificacion": -65.29
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 1151.36,
+            "rotacionCuentasPorPagar": 2165.57,
+            "rotacionInventarios": -1020.52,
+            "rotacionActivosTotales": 0.06,
+            "rotacionActivosFijos": -0.05,
+            "calificacion": -12.15
+        },
+        "calificacion": 23.46999999999997
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "33044",
+                "final": "32940"
+            },
+            "inventarios": {
+                "inicio": "-18470",
+                "final": 0
+            },
+            "total": "400259"
+        },
+        "no_circulante": {
+            "total": -225174
+        },
+        "total": "175085"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "60787",
+                "final": "63321"
+            },
+            "total": "72294"
+        },
+        "a_largo_plazo": {
+            "total": -1215426
+        },
+        "total": "-1143132"
+    },
+    "capital_contable": {
+        "total": 0
+    },
+    "nombre": "SANTANDER",
+    "ventas_netas": "10459",
+    "costo_de_ventas": "3303",
+    "utilidad_de_operacion": "2571",
+    "utilidad_neta": 0,
+    "intereses": "8927"
+}

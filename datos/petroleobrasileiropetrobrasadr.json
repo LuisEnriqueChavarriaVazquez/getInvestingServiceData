@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 27.44,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 3.9,
+            "calificacion": 10.45
+        },
+        "liquidez": {
+            "razonLiquidez": 1.22,
+            "pruebaAcido": 0.91,
+            "calificacion": 10.65
+        },
+        "endeudamiento": {
+            "apalancamiento": 58.78,
+            "apalancamientoAux": 41.22,
+            "coberturaIntereses": -17.08,
+            "calificacion": 5.88
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 82.1,
+            "rotacionCuentasPorPagar": 71.06,
+            "rotacionInventarios": 239.48,
+            "rotacionActivosTotales": 0.14,
+            "rotacionActivosFijos": 0.17,
+            "calificacion": 7.18
+        },
+        "calificacion": 92.69
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "32961",
+                "final": "29599"
+            },
+            "inventarios": {
+                "inicio": "45804",
+                "final": "40483"
+            },
+            "total": "157194"
+        },
+        "no_circulante": {
+            "total": 821383
+        },
+        "total": "978577"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "28507",
+                "final": "25643"
+            },
+            "total": "128450"
+        },
+        "a_largo_plazo": {
+            "total": 446722
+        },
+        "total": "575172"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "PETROLEO BRASILEIRO PETROBRAS ADR",
+    "ventas_netas": "139068",
+    "costo_de_ventas": "65757",
+    "utilidad_de_operacion": "55789",
+    "utilidad_neta": "38156",
+    "intereses": "-3266"
+}

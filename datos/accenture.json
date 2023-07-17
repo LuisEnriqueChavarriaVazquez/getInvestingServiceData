@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 9.57,
+            "retornoSobreCC": 10.53,
+            "retornoSobreActivos": 4.18,
+            "calificacion": 8.09
+        },
+        "liquidez": {
+            "razonLiquidez": 1.29,
+            "pruebaAcido": 1.29,
+            "calificacion": 12.9
+        },
+        "endeudamiento": {
+            "apalancamiento": 60.34,
+            "apalancamientoAux": 39.66,
+            "coberturaIntereses": 1000,
+            "calificacion": 6.03
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 271.45,
+            "rotacionCuentasPorPagar": 49.49,
+            "rotacionInventarios": 0,
+            "rotacionActivosTotales": 0.44,
+            "rotacionActivosFijos": 0.94,
+            "calificacion": 8.97
+        },
+        "calificacion": 92.09
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "6469.01",
+                "final": "6563.89"
+            },
+            "inventarios": {
+                "inicio": 0,
+                "final": 0
+            },
+            "total": "10764"
+        },
+        "no_circulante": {
+            "total": 9314.77
+        },
+        "total": "20078.77"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "1163.35",
+                "final": "1212.8"
+            },
+            "total": "8352.77"
+        },
+        "a_largo_plazo": {
+            "total": 3761.76
+        },
+        "total": "12114.53"
+    },
+    "capital_contable": {
+        "total": "7964.24"
+    },
+    "nombre": "ACCENTURE",
+    "ventas_netas": "8762.18",
+    "costo_de_ventas": "6258.03",
+    "utilidad_de_operacion": "1126.3",
+    "utilidad_neta": "838.75",
+    "intereses": 0
+}

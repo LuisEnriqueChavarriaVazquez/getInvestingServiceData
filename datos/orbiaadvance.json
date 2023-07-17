@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 2.41,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.47,
+            "calificacion": 0.96
+        },
+        "liquidez": {
+            "razonLiquidez": 1.4,
+            "pruebaAcido": 1.01,
+            "calificacion": 12.05
+        },
+        "endeudamiento": {
+            "apalancamiento": 73.05,
+            "apalancamientoAux": 26.950000000000003,
+            "coberturaIntereses": -4.09,
+            "calificacion": 7.31
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 282.15,
+            "rotacionCuentasPorPagar": 144.8,
+            "rotacionInventarios": 292.79,
+            "rotacionActivosTotales": 0.19,
+            "rotacionActivosFijos": 0.32,
+            "calificacion": 4.11
+        },
+        "calificacion": 58.720000000000006
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "1661",
+                "final": "1864"
+            },
+            "inventarios": {
+                "inicio": "1320",
+                "final": "1279"
+            },
+            "total": "4649"
+        },
+        "no_circulante": {
+            "total": 7128
+        },
+        "total": "11777"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "813",
+                "final": "996"
+            },
+            "total": "3330"
+        },
+        "a_largo_plazo": {
+            "total": 5273
+        },
+        "total": "8603"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "ORBIA ADVANCE",
+    "ventas_netas": "2280",
+    "costo_de_ventas": "1620",
+    "utilidad_de_operacion": "323",
+    "utilidad_neta": "55",
+    "intereses": "-79"
+}

@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 12.59,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 3.65,
+            "calificacion": 5.41
+        },
+        "liquidez": {
+            "razonLiquidez": 0.24,
+            "pruebaAcido": 0.21,
+            "calificacion": 2.25
+        },
+        "endeudamiento": {
+            "apalancamiento": 223.81,
+            "apalancamientoAux": -123.81,
+            "coberturaIntereses": -1.09,
+            "calificacion": 22.38
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 100.77,
+            "rotacionCuentasPorPagar": 169.57,
+            "rotacionInventarios": 45.82,
+            "rotacionActivosTotales": 0.29,
+            "rotacionActivosFijos": 0.36,
+            "calificacion": 8.29
+        },
+        "calificacion": 81.44
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "1282.36",
+                "final": "1434.3"
+            },
+            "inventarios": {
+                "inicio": "438.86",
+                "final": "408.74"
+            },
+            "total": "3279.18"
+        },
+        "no_circulante": {
+            "total": 13714.68
+        },
+        "total": "16993.86"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "2304.44",
+                "final": "2267.07"
+            },
+            "total": "13837.17"
+        },
+        "a_largo_plazo": {
+            "total": 24197.43
+        },
+        "total": "38034.6"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "GOL LINHAS AEREAS ADR",
+    "ventas_netas": "4920.2",
+    "costo_de_ventas": "3375.7",
+    "utilidad_de_operacion": "796.5",
+    "utilidad_neta": "619.52",
+    "intereses": "-728.46"
+}

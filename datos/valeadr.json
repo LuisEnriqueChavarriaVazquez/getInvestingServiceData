@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 21.72,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 2.14,
+            "calificacion": 7.95
+        },
+        "liquidez": {
+            "razonLiquidez": 1.12,
+            "pruebaAcido": 0.73,
+            "calificacion": 9.25
+        },
+        "endeudamiento": {
+            "apalancamiento": 55.6,
+            "apalancamientoAux": 44.4,
+            "coberturaIntereses": -10.96,
+            "calificacion": 5.56
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 206.74,
+            "rotacionCuentasPorPagar": 191.31,
+            "rotacionInventarios": 345.84,
+            "rotacionActivosTotales": 0.1,
+            "rotacionActivosFijos": 0.12,
+            "calificacion": 3.58
+        },
+        "calificacion": 74.25
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "29176",
+                "final": "20488"
+            },
+            "inventarios": {
+                "inicio": "23386",
+                "final": "25362"
+            },
+            "total": "73708"
+        },
+        "no_circulante": {
+            "total": 371065
+        },
+        "total": "444773"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "23278",
+                "final": "22680"
+            },
+            "total": "65928"
+        },
+        "a_largo_plazo": {
+            "total": 181368
+        },
+        "total": "247296"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "VALE ADR",
+    "ventas_netas": "43841",
+    "costo_de_ventas": "25724",
+    "utilidad_de_operacion": "15718",
+    "utilidad_neta": "9521",
+    "intereses": "-1434"
+}

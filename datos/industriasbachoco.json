@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 2.05,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.67,
+            "calificacion": 0.91
+        },
+        "liquidez": {
+            "razonLiquidez": 3.88,
+            "pruebaAcido": 3.05,
+            "calificacion": 34.65
+        },
+        "endeudamiento": {
+            "apalancamiento": 25.56,
+            "apalancamientoAux": 25.56,
+            "coberturaIntereses": -9.18,
+            "calificacion": 2.56
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 105.88,
+            "rotacionCuentasPorPagar": 98.5,
+            "rotacionInventarios": 162.32,
+            "rotacionActivosTotales": 0.33,
+            "rotacionActivosFijos": 0.72,
+            "calificacion": 8.18
+        },
+        "calificacion": 120.88999999999999
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "6772.83",
+                "final": "6729.18"
+            },
+            "inventarios": {
+                "inicio": "9106.5",
+                "final": "8280.37"
+            },
+            "total": "38718.69"
+        },
+        "no_circulante": {
+            "total": 32445.910000000003
+        },
+        "total": "71164.6"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "6619.4",
+                "final": "5941.23"
+            },
+            "total": "9989.46"
+        },
+        "a_largo_plazo": {
+            "total": 8197
+        },
+        "total": "18186.46"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "INDUSTRIAS BACHOCO",
+    "ventas_netas": "23272.19",
+    "costo_de_ventas": "19548.38",
+    "utilidad_de_operacion": "1668.73",
+    "utilidad_neta": "476.45",
+    "intereses": "-181.78"
+}

@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 45.58,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.61,
+            "calificacion": 15.4
+        },
+        "liquidez": {
+            "razonLiquidez": 0.19,
+            "pruebaAcido": 0.18,
+            "calificacion": 1.85
+        },
+        "endeudamiento": {
+            "apalancamiento": 88.14,
+            "apalancamientoAux": 11.86,
+            "coberturaIntereses": 1000,
+            "calificacion": 8.81
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 649.32,
+            "rotacionCuentasPorPagar": 11226.51,
+            "rotacionInventarios": 1000,
+            "rotacionActivosTotales": 0.01,
+            "rotacionActivosFijos": 0.02,
+            "calificacion": -117.93
+        },
+        "calificacion": -33.16000000000001
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "32319",
+                "final": "69295.45"
+            },
+            "inventarios": {
+                "inicio": "3936",
+                "final": "4074.14"
+            },
+            "total": "273501.5"
+        },
+        "no_circulante": {
+            "total": 1856529.37
+        },
+        "total": "2130030.87"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "870537",
+                "final": "886348.91"
+            },
+            "total": "1459550.56"
+        },
+        "a_largo_plazo": {
+            "total": 417909.9099999999
+        },
+        "total": "1877460.47"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "FINANCIERO BANORTE",
+    "ventas_netas": "28560.23",
+    "costo_de_ventas": 0,
+    "utilidad_de_operacion": "17411.86",
+    "utilidad_neta": "13018.01",
+    "intereses": 0
+}

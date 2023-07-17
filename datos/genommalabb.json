@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 8.57,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 1.64,
+            "calificacion": 3.4
+        },
+        "liquidez": {
+            "razonLiquidez": 1.21,
+            "pruebaAcido": 0.96,
+            "calificacion": 10.85
+        },
+        "endeudamiento": {
+            "apalancamiento": 52.48,
+            "apalancamientoAux": 47.52,
+            "coberturaIntereses": -4.42,
+            "calificacion": 5.25
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 607.16,
+            "rotacionCuentasPorPagar": 148.06,
+            "rotacionInventarios": 548.07,
+            "rotacionActivosTotales": 0.19,
+            "rotacionActivosFijos": 0.4,
+            "calificacion": -1.64
+        },
+        "calificacion": 55.01
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "6780.13",
+                "final": "7120.37"
+            },
+            "inventarios": {
+                "inicio": "2510.39",
+                "final": "2338.15"
+            },
+            "total": "11490.2"
+        },
+        "no_circulante": {
+            "total": 10354.16
+        },
+        "total": "21844.36"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "1794.44",
+                "final": "1595.27"
+            },
+            "total": "9498.66"
+        },
+        "a_largo_plazo": {
+            "total": 1966.33
+        },
+        "total": "11464.99"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "GENOMMA LAB B",
+    "ventas_netas": "4178.23",
+    "costo_de_ventas": "1614.5",
+    "utilidad_de_operacion": "803.8",
+    "utilidad_neta": "358",
+    "intereses": "-182"
+}

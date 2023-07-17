@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 7.09,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.4,
+            "calificacion": 2.5
+        },
+        "liquidez": {
+            "razonLiquidez": 88.69,
+            "pruebaAcido": 88.69,
+            "calificacion": 886.9
+        },
+        "endeudamiento": {
+            "apalancamiento": 90.31,
+            "apalancamientoAux": 9.689999999999998,
+            "coberturaIntereses": -7.03,
+            "calificacion": 9.03
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 83.25,
+            "rotacionCuentasPorPagar": 2637.3,
+            "rotacionInventarios": 0,
+            "rotacionActivosTotales": 0.06,
+            "rotacionActivosFijos": 0.06,
+            "calificacion": -16.29
+        },
+        "calificacion": 2672.47
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "2821.58",
+                "final": "254.15"
+            },
+            "inventarios": {
+                "inicio": 0,
+                "final": 0
+            },
+            "total": "4571.33"
+        },
+        "no_circulante": {
+            "total": 113756.87
+        },
+        "total": "118328.2"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "97437.19",
+                "final": "2.07"
+            },
+            "total": "51.54"
+        },
+        "a_largo_plazo": {
+            "total": 106805.45000000001
+        },
+        "total": "106856.99"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "GRUPO PROFUTURO",
+    "ventas_netas": "6742.76",
+    "costo_de_ventas": "4992.74",
+    "utilidad_de_operacion": "619.76",
+    "utilidad_neta": "477.76",
+    "intereses": "-88.19"
+}

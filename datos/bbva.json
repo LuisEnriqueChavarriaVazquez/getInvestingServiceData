@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 0,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0,
+            "calificacion": 0
+        },
+        "liquidez": {
+            "razonLiquidez": 1000,
+            "pruebaAcido": 1000,
+            "calificacion": 10000
+        },
+        "endeudamiento": {
+            "apalancamiento": -355.05,
+            "apalancamientoAux": -355.05,
+            "coberturaIntereses": 0.5,
+            "calificacion": -35.51
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 565.42,
+            "rotacionCuentasPorPagar": 5564.79,
+            "rotacionInventarios": -1139.31,
+            "rotacionActivosTotales": 0.05,
+            "rotacionActivosFijos": -0.07,
+            "calificacion": -39.13
+        },
+        "calificacion": 29889.85
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "8535",
+                "final": "8945"
+            },
+            "inventarios": {
+                "inicio": "-6043",
+                "final": 0
+            },
+            "total": "203144"
+        },
+        "no_circulante": {
+            "total": -85037
+        },
+        "total": "118107"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "64851",
+                "final": "107185"
+            },
+            "total": 0
+        },
+        "a_largo_plazo": {
+            "total": -419336
+        },
+        "total": "-419336"
+    },
+    "capital_contable": {
+        "total": 0
+    },
+    "nombre": "BBVA",
+    "ventas_netas": "5642",
+    "costo_de_ventas": "968",
+    "utilidad_de_operacion": "1846",
+    "utilidad_neta": 0,
+    "intereses": "3680"
+}

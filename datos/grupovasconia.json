@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": -9.01,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": -1.33,
+            "calificacion": -3.45
+        },
+        "liquidez": {
+            "razonLiquidez": 1.4,
+            "pruebaAcido": 0.84,
+            "calificacion": 11.2
+        },
+        "endeudamiento": {
+            "apalancamiento": 67.29,
+            "apalancamientoAux": 32.709999999999994,
+            "coberturaIntereses": -0.02,
+            "calificacion": 6.73
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 494.21,
+            "rotacionCuentasPorPagar": 508.57,
+            "rotacionInventarios": 292.84,
+            "rotacionActivosTotales": 0.15,
+            "rotacionActivosFijos": 0.27,
+            "calificacion": -1.74
+        },
+        "calificacion": 31.519999999999996
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "1034.05",
+                "final": "1021.62"
+            },
+            "inventarios": {
+                "inicio": 0,
+                "final": "930.54"
+            },
+            "total": "2324.67"
+        },
+        "no_circulante": {
+            "total": 2804.8999999999996
+        },
+        "total": "5129.57"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "1179.76",
+                "final": "935.66"
+            },
+            "total": "1658.8"
+        },
+        "a_largo_plazo": {
+            "total": 1792.66
+        },
+        "total": "3451.46"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "GRUPO VASCONIA",
+    "ventas_netas": "759.11",
+    "costo_de_ventas": "579.92",
+    "utilidad_de_operacion": "1.75",
+    "utilidad_neta": "-68.41",
+    "intereses": "-80.64"
+}

@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 4.05,
+            "retornoSobreCC": 5.18,
+            "retornoSobreActivos": 0.65,
+            "calificacion": 3.29
+        },
+        "liquidez": {
+            "razonLiquidez": 1.24,
+            "pruebaAcido": 1.12,
+            "calificacion": 11.8
+        },
+        "endeudamiento": {
+            "apalancamiento": 87.46,
+            "apalancamientoAux": 12.540000000000006,
+            "coberturaIntereses": 1000,
+            "calificacion": 8.75
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 543.86,
+            "rotacionCuentasPorPagar": 207.71,
+            "rotacionInventarios": 101.5,
+            "rotacionActivosTotales": 0.16,
+            "rotacionActivosFijos": 0.3,
+            "calificacion": 2.73
+        },
+        "calificacion": 68.79
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "57368",
+                "final": "59290"
+            },
+            "inventarios": {
+                "inicio": "8898",
+                "final": "10535"
+            },
+            "total": "113228"
+        },
+        "no_circulante": {
+            "total": 130866
+        },
+        "total": "244094"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "21296",
+                "final": "23257"
+            },
+            "total": "91304"
+        },
+        "a_largo_plazo": {
+            "total": 122171
+        },
+        "total": "213475"
+    },
+    "capital_contable": {
+        "total": "30619"
+    },
+    "nombre": "FORD MOTOR",
+    "ventas_netas": "39146",
+    "costo_de_ventas": "34940",
+    "utilidad_de_operacion": "1442",
+    "utilidad_neta": "1587",
+    "intereses": 0
+}

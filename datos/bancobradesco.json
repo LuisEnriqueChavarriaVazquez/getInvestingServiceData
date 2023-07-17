@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 28.87,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.3,
+            "calificacion": 9.72
+        },
+        "liquidez": {
+            "razonLiquidez": 0.37,
+            "pruebaAcido": 0.37,
+            "calificacion": 3.7
+        },
+        "endeudamiento": {
+            "apalancamiento": 91.08,
+            "apalancamientoAux": 8.920000000000002,
+            "coberturaIntereses": 1000,
+            "calificacion": 9.11
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 142.72,
+            "rotacionCuentasPorPagar": 11540.89,
+            "rotacionInventarios": 1440.44,
+            "rotacionActivosTotales": 0.01,
+            "rotacionActivosFijos": 0.01,
+            "calificacion": -120.42
+        },
+        "calificacion": -52.22
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "7706.02",
+                "final": "6918.88"
+            },
+            "inventarios": {
+                "inicio": "1236.93",
+                "final": "1267.54"
+            },
+            "total": "376522.92"
+        },
+        "no_circulante": {
+            "total": 1452208.6
+        },
+        "total": "1828731.52"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "593422.9",
+                "final": "589215.66"
+            },
+            "total": "1010967.75"
+        },
+        "a_largo_plazo": {
+            "total": 654717.49
+        },
+        "total": "1665685.24"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "BANCO BRADESCO",
+    "ventas_netas": "18701.47",
+    "costo_de_ventas": "317.31",
+    "utilidad_de_operacion": "6446.33",
+    "utilidad_neta": "5399.79",
+    "intereses": 0
+}

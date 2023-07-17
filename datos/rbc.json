@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 28.24,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.19,
+            "calificacion": 9.48
+        },
+        "liquidez": {
+            "razonLiquidez": 0.52,
+            "pruebaAcido": 0.52,
+            "calificacion": 5.2
+        },
+        "endeudamiento": {
+            "apalancamiento": 94.26,
+            "apalancamientoAux": 5.739999999999995,
+            "coberturaIntereses": 1000,
+            "calificacion": 9.43
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 0,
+            "rotacionCuentasPorPagar": 34097.2,
+            "rotacionInventarios": 1000,
+            "rotacionActivosTotales": 0.01,
+            "rotacionActivosFijos": 0.01,
+            "calificacion": -340.15
+        },
+        "calificacion": -267.77
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": 0,
+                "final": 0
+            },
+            "inventarios": {
+                "inicio": 0,
+                "final": 0
+            },
+            "total": "796859"
+        },
+        "no_circulante": {
+            "total": 1143443
+        },
+        "total": "1940302"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "1203842",
+                "final": "1210053"
+            },
+            "total": "1536342"
+        },
+        "a_largo_plazo": {
+            "total": 292606
+        },
+        "total": "1828948"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "RBC",
+    "ventas_netas": "12920",
+    "costo_de_ventas": 0,
+    "utilidad_de_operacion": "4800",
+    "utilidad_neta": "3648",
+    "intereses": 0
+}

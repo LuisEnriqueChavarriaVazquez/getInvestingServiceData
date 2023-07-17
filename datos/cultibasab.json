@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 12.56,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.05,
+            "calificacion": 4.2
+        },
+        "liquidez": {
+            "razonLiquidez": 88.19,
+            "pruebaAcido": 86.93,
+            "calificacion": 875.6
+        },
+        "endeudamiento": {
+            "apalancamiento": 0.3,
+            "apalancamientoAux": 0.3,
+            "coberturaIntereses": 19.56,
+            "calificacion": 0.03
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 930.4,
+            "rotacionCuentasPorPagar": 33.09,
+            "rotacionInventarios": 1410.7,
+            "rotacionActivosTotales": 0,
+            "rotacionActivosFijos": 0,
+            "calificacion": -12.94
+        },
+        "calificacion": 2630.7200000000003
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "124.57",
+                "final": "138.39"
+            },
+            "inventarios": {
+                "inicio": "48.28",
+                "final": "36.13"
+            },
+            "total": "2538.98"
+        },
+        "no_circulante": {
+            "total": 10932.78
+        },
+        "total": "13471.76"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "0.932",
+                "final": "8.42"
+            },
+            "total": "28.79"
+        },
+        "a_largo_plazo": {
+            "total": 11.130000000000003
+        },
+        "total": "39.92"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "CULTIBA SAB",
+    "ventas_netas": "51.58",
+    "costo_de_ventas": "10.92",
+    "utilidad_de_operacion": "-19.56",
+    "utilidad_neta": "6.48",
+    "intereses": "-1"
+}

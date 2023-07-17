@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 18.33,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 1.49,
+            "calificacion": 6.61
+        },
+        "liquidez": {
+            "razonLiquidez": 3.25,
+            "pruebaAcido": 3.25,
+            "calificacion": 32.5
+        },
+        "endeudamiento": {
+            "apalancamiento": 56.83,
+            "apalancamientoAux": 43.17,
+            "coberturaIntereses": 1000,
+            "calificacion": 5.68
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 3090.02,
+            "rotacionCuentasPorPagar": 0,
+            "rotacionInventarios": 0,
+            "rotacionActivosTotales": 0.08,
+            "rotacionActivosFijos": 0.37,
+            "calificacion": -19.65
+        },
+        "calificacion": 115.65
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "7928.4",
+                "final": "7411.16"
+            },
+            "inventarios": {
+                "inicio": 0,
+                "final": 0
+            },
+            "total": "8670.52"
+        },
+        "no_circulante": {
+            "total": 2449.1499999999996
+        },
+        "total": "11119.67"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": 0,
+                "final": 0
+            },
+            "total": "2666.08"
+        },
+        "a_largo_plazo": {
+            "total": 3653.13
+        },
+        "total": "6319.21"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "FINANCIERA INDEPENDENCIA",
+    "ventas_netas": "905.97",
+    "costo_de_ventas": "667.1",
+    "utilidad_de_operacion": "238.88",
+    "utilidad_neta": "166.05",
+    "intereses": 0
+}

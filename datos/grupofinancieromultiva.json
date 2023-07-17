@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 24.6,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.14,
+            "calificacion": 8.25
+        },
+        "liquidez": {
+            "razonLiquidez": 0.17,
+            "pruebaAcido": 0.16,
+            "calificacion": 1.65
+        },
+        "endeudamiento": {
+            "apalancamiento": 93.54,
+            "apalancamientoAux": 6.459999999999994,
+            "coberturaIntereses": 1000,
+            "calificacion": 9.35
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 270.74,
+            "rotacionCuentasPorPagar": 31318.02,
+            "rotacionInventarios": 1000,
+            "rotacionActivosTotales": 0.01,
+            "rotacionActivosFijos": 0.01,
+            "calificacion": -315.07
+        },
+        "calificacion": -258.42
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "86",
+                "final": "943.59"
+            },
+            "inventarios": {
+                "inicio": "1073",
+                "final": "1039.75"
+            },
+            "total": "16862.65"
+        },
+        "no_circulante": {
+            "total": 105434.93
+        },
+        "total": "122297.58"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "59358",
+                "final": "59741.42"
+            },
+            "total": "101754.96"
+        },
+        "a_largo_plazo": {
+            "total": 12639.349999999991
+        },
+        "total": "114394.31"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "GRUPO FINANCIERO MULTIVA",
+    "ventas_netas": "694.03",
+    "costo_de_ventas": 0,
+    "utilidad_de_operacion": "172.92",
+    "utilidad_neta": "170.73",
+    "intereses": 0
+}

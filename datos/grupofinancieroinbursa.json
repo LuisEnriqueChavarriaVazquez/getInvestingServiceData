@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 61.21,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 1.2,
+            "calificacion": 20.8
+        },
+        "liquidez": {
+            "razonLiquidez": 0.35,
+            "pruebaAcido": 0.35,
+            "calificacion": 3.5
+        },
+        "endeudamiento": {
+            "apalancamiento": 67.34,
+            "apalancamientoAux": 32.66,
+            "coberturaIntereses": 1000,
+            "calificacion": 6.73
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 701.61,
+            "rotacionCuentasPorPagar": 6996.37,
+            "rotacionInventarios": 1000,
+            "rotacionActivosTotales": 0.02,
+            "rotacionActivosFijos": 0.02,
+            "calificacion": -76.14
+        },
+        "calificacion": 31.019999999999996
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "18802",
+                "final": "28050.8"
+            },
+            "inventarios": {
+                "inicio": "942",
+                "final": "1202.32"
+            },
+            "total": "94414.02"
+        },
+        "no_circulante": {
+            "total": 525527.75
+        },
+        "total": "619941.77"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "228566",
+                "final": "238643.59"
+            },
+            "total": "268418.73"
+        },
+        "a_largo_plazo": {
+            "total": 149068.63
+        },
+        "total": "417487.36"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "GRUPO FINANCIERO INBURSA",
+    "ventas_netas": "12187.15",
+    "costo_de_ventas": 0,
+    "utilidad_de_operacion": "9235.19",
+    "utilidad_neta": "7459.35",
+    "intereses": 0
+}

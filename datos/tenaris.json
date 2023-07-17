@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 27.25,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 6.06,
+            "calificacion": 11.1
+        },
+        "liquidez": {
+            "razonLiquidez": 3.49,
+            "pruebaAcido": 1.97,
+            "calificacion": 27.3
+        },
+        "endeudamiento": {
+            "apalancamiento": 18.48,
+            "apalancamientoAux": 18.48,
+            "coberturaIntereses": -43.08,
+            "calificacion": 1.85
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 264.99,
+            "rotacionCuentasPorPagar": 99.03,
+            "rotacionInventarios": 658.08,
+            "rotacionActivosTotales": 0.22,
+            "rotacionActivosFijos": 0.44,
+            "calificacion": 1.24
+        },
+        "calificacion": 131.24
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "2779.48",
+                "final": "3233.61"
+            },
+            "inventarios": {
+                "inicio": "3986.93",
+                "final": "3991.5"
+            },
+            "total": "9198.18"
+        },
+        "no_circulante": {
+            "total": 9441.119999999999
+        },
+        "total": "18639.3"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "1179.46",
+                "final": "1067.6"
+            },
+            "total": "2639.34"
+        },
+        "a_largo_plazo": {
+            "total": 805.4299999999998
+        },
+        "total": "3444.77"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "TENARIS",
+    "ventas_netas": "4141.18",
+    "costo_de_ventas": "2212.61",
+    "utilidad_de_operacion": "1358.72",
+    "utilidad_neta": "1128.63",
+    "intereses": "-31.54"
+}

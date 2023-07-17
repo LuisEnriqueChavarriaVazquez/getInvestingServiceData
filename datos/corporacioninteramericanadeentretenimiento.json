@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 8.71,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.22,
+            "calificacion": 2.98
+        },
+        "liquidez": {
+            "razonLiquidez": 0.58,
+            "pruebaAcido": 0.58,
+            "calificacion": 5.8
+        },
+        "endeudamiento": {
+            "apalancamiento": 63.62,
+            "apalancamientoAux": 36.38,
+            "coberturaIntereses": -9.1,
+            "calificacion": 6.36
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 1431.81,
+            "rotacionCuentasPorPagar": 675.22,
+            "rotacionInventarios": 22.3,
+            "rotacionActivosTotales": 0.03,
+            "rotacionActivosFijos": 0.03,
+            "calificacion": -10.43
+        },
+        "calificacion": 31.61
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "1355.66",
+                "final": "1329.08"
+            },
+            "inventarios": {
+                "inicio": "13.41",
+                "final": "13.78"
+            },
+            "total": "3342.89"
+        },
+        "no_circulante": {
+            "total": 9965.140000000001
+        },
+        "total": "13308.03"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "545.73",
+                "final": "720.36"
+            },
+            "total": "5775.89"
+        },
+        "a_largo_plazo": {
+            "total": 2690.3399999999992
+        },
+        "total": "8466.23"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "CORPORACION INTERAMERICANA DE ENTRETENIMIENTO",
+    "ventas_netas": "342.2",
+    "costo_de_ventas": "222.47",
+    "utilidad_de_operacion": "196.8",
+    "utilidad_neta": "29.8",
+    "intereses": "-21.62"
+}

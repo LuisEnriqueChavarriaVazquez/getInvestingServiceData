@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 48.61,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 2.74,
+            "calificacion": 17.12
+        },
+        "liquidez": {
+            "razonLiquidez": 1.54,
+            "pruebaAcido": 0.38,
+            "calificacion": 9.6
+        },
+        "endeudamiento": {
+            "apalancamiento": 54.41,
+            "apalancamientoAux": 45.59,
+            "coberturaIntereses": -17.11,
+            "calificacion": 5.44
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 142.01,
+            "rotacionCuentasPorPagar": 33.16,
+            "rotacionInventarios": 5002.88,
+            "rotacionActivosTotales": 0.06,
+            "rotacionActivosFijos": 0.2,
+            "calificacion": -40.72
+        },
+        "calificacion": 67.44
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "209.92",
+                "final": "125.11"
+            },
+            "inventarios": {
+                "inicio": "4231.44",
+                "final": "4084.04"
+            },
+            "total": "5447.93"
+        },
+        "no_circulante": {
+            "total": 2199.1899999999996
+        },
+        "total": "7647.12"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "31.98",
+                "final": "46.26"
+            },
+            "total": "3547.92"
+        },
+        "a_largo_plazo": {
+            "total": 612.7200000000003
+        },
+        "total": "4160.64"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "DINE A",
+    "ventas_netas": "430.55",
+    "costo_de_ventas": "303.34",
+    "utilidad_de_operacion": "31.99",
+    "utilidad_neta": "209.29",
+    "intereses": "-1.87"
+}

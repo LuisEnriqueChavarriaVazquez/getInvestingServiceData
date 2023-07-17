@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 14.43,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 1.89,
+            "calificacion": 5.44
+        },
+        "liquidez": {
+            "razonLiquidez": 0.67,
+            "pruebaAcido": 0.62,
+            "calificacion": 6.45
+        },
+        "endeudamiento": {
+            "apalancamiento": 74.31,
+            "apalancamientoAux": 25.689999999999998,
+            "coberturaIntereses": -4.11,
+            "calificacion": 7.43
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 348.15,
+            "rotacionCuentasPorPagar": 121.63,
+            "rotacionInventarios": 73.27,
+            "rotacionActivosTotales": 0.13,
+            "rotacionActivosFijos": 0.17,
+            "calificacion": 5.67
+        },
+        "calificacion": 61.64000000000001
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "201711.42",
+                "final": "196845.79"
+            },
+            "inventarios": {
+                "inicio": "23995.13",
+                "final": "23398.92"
+            },
+            "total": "376729.1"
+        },
+        "no_circulante": {
+            "total": 1216611.8599999999
+        },
+        "total": "1593340.96"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "76462.24",
+                "final": "62782.32"
+            },
+            "total": "565625.04"
+        },
+        "a_largo_plazo": {
+            "total": 618445.24
+        },
+        "total": "1184070.28"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "AMERICA MOVIL ADR",
+    "ventas_netas": "208926.32",
+    "costo_de_ventas": "118054.02",
+    "utilidad_de_operacion": "44124.96",
+    "utilidad_neta": "30145.62",
+    "intereses": "-10731.85"
+}

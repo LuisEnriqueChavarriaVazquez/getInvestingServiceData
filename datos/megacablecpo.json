@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 11.14,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 1.27,
+            "calificacion": 4.14
+        },
+        "liquidez": {
+            "razonLiquidez": 0.8,
+            "pruebaAcido": 0.72,
+            "calificacion": 7.6
+        },
+        "endeudamiento": {
+            "apalancamiento": 40.79,
+            "apalancamientoAux": 40.79,
+            "coberturaIntereses": -3.69,
+            "calificacion": 4.08
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 187.24,
+            "rotacionCuentasPorPagar": 233.02,
+            "rotacionInventarios": 127.95,
+            "rotacionActivosTotales": 0.11,
+            "rotacionActivosFijos": 0.13,
+            "calificacion": 5.56
+        },
+        "calificacion": 53.08
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "3580.65",
+                "final": "3757.2"
+            },
+            "inventarios": {
+                "inicio": "651.94",
+                "final": "756.44"
+            },
+            "total": "7926.73"
+        },
+        "no_circulante": {
+            "total": 54612.67
+        },
+        "total": "62539.4"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "4782.08",
+                "final": "4349.87"
+            },
+            "total": "9959.2"
+        },
+        "a_largo_plazo": {
+            "total": 15552.34
+        },
+        "total": "25511.54"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "MEGACABLE CPO",
+    "ventas_netas": "7152.19",
+    "costo_de_ventas": "2008.85",
+    "utilidad_de_operacion": "1447.79",
+    "utilidad_neta": "796.62",
+    "intereses": "-392.51"
+}

@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 38.95,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 3.55,
+            "calificacion": 14.17
+        },
+        "liquidez": {
+            "razonLiquidez": 3.58,
+            "pruebaAcido": 3.57,
+            "calificacion": 35.75
+        },
+        "endeudamiento": {
+            "apalancamiento": 28.62,
+            "apalancamientoAux": 28.62,
+            "coberturaIntereses": -13.12,
+            "calificacion": 2.86
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 219.96,
+            "rotacionCuentasPorPagar": 54.04,
+            "rotacionInventarios": 147.22,
+            "rotacionActivosTotales": 0.09,
+            "rotacionActivosFijos": 0.13,
+            "calificacion": 6.81
+        },
+        "calificacion": 176.45999999999998
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "3134.18",
+                "final": "4638.98"
+            },
+            "inventarios": {
+                "inicio": "64.72",
+                "final": "58.8"
+            },
+            "total": "20033.82"
+        },
+        "no_circulante": {
+            "total": 50764.35
+        },
+        "total": "70798.17"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "307.07",
+                "final": "1602.81"
+            },
+            "total": "5601.99"
+        },
+        "a_largo_plazo": {
+            "total": 14660.37
+        },
+        "total": "20262.36"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "ASUR B",
+    "ventas_netas": "6449.41",
+    "costo_de_ventas": "153.12",
+    "utilidad_de_operacion": "4013.65",
+    "utilidad_neta": "2512.36",
+    "intereses": "-305.99"
+}

@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": -5.6,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": -0.47,
+            "calificacion": -2.02
+        },
+        "liquidez": {
+            "razonLiquidez": 1.1,
+            "pruebaAcido": 0.71,
+            "calificacion": 9.05
+        },
+        "endeudamiento": {
+            "apalancamiento": 80.18,
+            "apalancamientoAux": 19.819999999999993,
+            "coberturaIntereses": -1.91,
+            "calificacion": 8.02
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 355.48,
+            "rotacionCuentasPorPagar": 212.76,
+            "rotacionInventarios": 697.96,
+            "rotacionActivosTotales": 0.08,
+            "rotacionActivosFijos": 0.11,
+            "calificacion": -1.67
+        },
+        "calificacion": 33.44
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "3696",
+                "final": "3435"
+            },
+            "inventarios": {
+                "inicio": "3833",
+                "final": "4118"
+            },
+            "total": "11501"
+        },
+        "no_circulante": {
+            "total": 31955
+        },
+        "total": "43456"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "1887",
+                "final": "2381"
+            },
+            "total": "10411"
+        },
+        "a_largo_plazo": {
+            "total": 24434
+        },
+        "total": "34845"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "TEVA ADR",
+    "ventas_netas": "3661",
+    "costo_de_ventas": "2079",
+    "utilidad_de_operacion": "498",
+    "utilidad_neta": "-205",
+    "intereses": "-261"
+}

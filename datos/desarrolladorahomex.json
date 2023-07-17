@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": -6.22,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": -1.36,
+            "calificacion": -2.53
+        },
+        "liquidez": {
+            "razonLiquidez": 0.65,
+            "pruebaAcido": 0.29,
+            "calificacion": 4.7
+        },
+        "endeudamiento": {
+            "apalancamiento": 92.85,
+            "apalancamientoAux": 7.150000000000006,
+            "coberturaIntereses": 2.03,
+            "calificacion": 9.29
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 301.55,
+            "rotacionCuentasPorPagar": 152.43,
+            "rotacionInventarios": 497.97,
+            "rotacionActivosTotales": 0.22,
+            "rotacionActivosFijos": 0.45,
+            "calificacion": 1.95
+        },
+        "calificacion": 24.509999999999998
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "207.66",
+                "final": "203.17"
+            },
+            "inventarios": {
+                "inicio": "314.12",
+                "final": "323.56"
+            },
+            "total": "586.26"
+        },
+        "no_circulante": {
+            "total": 551.77
+        },
+        "total": "1138.03"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "93.24",
+                "final": "114.43"
+            },
+            "total": "898.54"
+        },
+        "a_largo_plazo": {
+            "total": 158.1500000000001
+        },
+        "total": "1056.69"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "DESARROLLADORA HOMEX",
+    "ventas_netas": "248.64",
+    "costo_de_ventas": "233.7",
+    "utilidad_de_operacion": "-12.51",
+    "utilidad_neta": "-15.47",
+    "intereses": "-6.15"
+}

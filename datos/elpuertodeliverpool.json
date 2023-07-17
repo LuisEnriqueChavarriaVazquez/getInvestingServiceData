@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 5.7,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 0.95,
+            "calificacion": 2.22
+        },
+        "liquidez": {
+            "razonLiquidez": 1.86,
+            "pruebaAcido": 1.2,
+            "calificacion": 15.3
+        },
+        "endeudamiento": {
+            "apalancamiento": 0,
+            "apalancamientoAux": 0,
+            "coberturaIntereses": -3.86,
+            "calificacion": 0
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 373.13,
+            "rotacionCuentasPorPagar": 289.17,
+            "rotacionInventarios": 471.13,
+            "rotacionActivosTotales": 0.17,
+            "rotacionActivosFijos": 0.27,
+            "calificacion": -0.09
+        },
+        "calificacion": 54.690000000000005
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "40765.81",
+                "final": "36047.25"
+            },
+            "inventarios": {
+                "inicio": "28140.68",
+                "final": "31284.33"
+            },
+            "total": "87502.17"
+        },
+        "no_circulante": {
+            "total": 138710.40000000002
+        },
+        "total": "226212.57"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "33197.93",
+                "final": "26329.85"
+            },
+            "total": "47024.49"
+        },
+        "a_largo_plazo": {
+            "total": -47024.49
+        },
+        "total": 0
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "EL PUERTO DE LIVERPOOL",
+    "ventas_netas": "37569.51",
+    "costo_de_ventas": "23019.4",
+    "utilidad_de_operacion": "3885.79",
+    "utilidad_neta": "2142.82",
+    "intereses": "-1007.44"
+}

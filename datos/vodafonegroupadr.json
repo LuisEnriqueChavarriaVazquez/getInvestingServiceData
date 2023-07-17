@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 47.65,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 3.49,
+            "calificacion": 17.05
+        },
+        "liquidez": {
+            "razonLiquidez": 0.89,
+            "pruebaAcido": 0.86,
+            "calificacion": 8.75
+        },
+        "endeudamiento": {
+            "apalancamiento": 58.54,
+            "apalancamientoAux": 41.46,
+            "coberturaIntereses": -1.99,
+            "calificacion": 5.85
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 262.69,
+            "rotacionCuentasPorPagar": 256.12,
+            "rotacionInventarios": 45.7,
+            "rotacionActivosTotales": 0.07,
+            "rotacionActivosFijos": 0.09,
+            "calificacion": 5.31
+        },
+        "calificacion": 111.46000000000001
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "8196",
+                "final": "8196"
+            },
+            "inventarios": {
+                "inicio": "956",
+                "final": "956"
+            },
+            "total": "30662"
+        },
+        "no_circulante": {
+            "total": 124859
+        },
+        "total": "155521"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "7991",
+                "final": "7991"
+            },
+            "total": "34584"
+        },
+        "a_largo_plazo": {
+            "total": 56454
+        },
+        "total": "91038"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "VODAFONE GROUP ADR",
+    "ventas_netas": "11388",
+    "costo_de_ventas": "7635",
+    "utilidad_de_operacion": "935",
+    "utilidad_neta": "5426",
+    "intereses": "-469"
+}

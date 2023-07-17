@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 5.3,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 1000,
+            "calificacion": 335.1
+        },
+        "liquidez": {
+            "razonLiquidez": 1000,
+            "pruebaAcido": 1000,
+            "calificacion": 10000
+        },
+        "endeudamiento": {
+            "apalancamiento": 1000,
+            "apalancamientoAux": -900,
+            "coberturaIntereses": -8.62,
+            "calificacion": 100
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 78.66,
+            "rotacionCuentasPorPagar": 34.35,
+            "rotacionInventarios": 7.88,
+            "rotacionActivosTotales": 1000,
+            "rotacionActivosFijos": 1000,
+            "calificacion": 2009.59
+        },
+        "calificacion": 33549.99
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "41902",
+                "final": 0
+            },
+            "inventarios": {
+                "inicio": "1882",
+                "final": 0
+            },
+            "total": 0
+        },
+        "no_circulante": {
+            "total": 0
+        },
+        "total": 0
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "18299",
+                "final": 0
+            },
+            "total": 0
+        },
+        "a_largo_plazo": {
+            "total": 0
+        },
+        "total": 0
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "CHINA UNICOM (HONG KONG)",
+    "ventas_netas": "97222",
+    "costo_de_ventas": "43596",
+    "utilidad_de_operacion": "4438",
+    "utilidad_neta": "5155",
+    "intereses": "-515"
+}

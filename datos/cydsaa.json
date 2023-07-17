@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": 12.54,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": 1.61,
+            "calificacion": 4.72
+        },
+        "liquidez": {
+            "razonLiquidez": 1.62,
+            "pruebaAcido": 1.36,
+            "calificacion": 14.9
+        },
+        "endeudamiento": {
+            "apalancamiento": 62.69,
+            "apalancamientoAux": 37.31,
+            "coberturaIntereses": -5.45,
+            "calificacion": 6.27
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 342.59,
+            "rotacionCuentasPorPagar": 165.14,
+            "rotacionInventarios": 242.78,
+            "rotacionActivosTotales": 0.13,
+            "rotacionActivosFijos": 0.17,
+            "calificacion": 3.59
+        },
+        "calificacion": 79.71000000000001
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "3137",
+                "final": "3751.32"
+            },
+            "inventarios": {
+                "inicio": "1441",
+                "final": "1224.83"
+            },
+            "total": "7428.26"
+        },
+        "no_circulante": {
+            "total": 21138.04
+        },
+        "total": "28566.3"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "1718",
+                "final": "1602.48"
+            },
+            "total": "4576.64"
+        },
+        "a_largo_plazo": {
+            "total": 13332.779999999999
+        },
+        "total": "17909.42"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "CYDSA A",
+    "ventas_netas": "3669.5",
+    "costo_de_ventas": "2003.93",
+    "utilidad_de_operacion": "890.51",
+    "utilidad_neta": "460.31",
+    "intereses": "-163.32"
+}

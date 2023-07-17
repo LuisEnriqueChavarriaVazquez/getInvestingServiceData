@@ -1,0 +1,69 @@
+{
+    "razones": {
+        "rentabilidad": {
+            "margenUtilidad": -0.33,
+            "retornoSobreCC": null,
+            "retornoSobreActivos": -0.1,
+            "calificacion": -0.14
+        },
+        "liquidez": {
+            "razonLiquidez": 1.2,
+            "pruebaAcido": 0.73,
+            "calificacion": 9.65
+        },
+        "endeudamiento": {
+            "apalancamiento": 79.3,
+            "apalancamientoAux": 20.700000000000003,
+            "coberturaIntereses": -2.42,
+            "calificacion": 7.93
+        },
+        "rotaciones": {
+            "rotacionCuentasPorCobrar": 147.3,
+            "rotacionCuentasPorPagar": 237.87,
+            "rotacionInventarios": 301.66,
+            "rotacionActivosTotales": 0.29,
+            "rotacionActivosFijos": 0.58,
+            "calificacion": 4.8
+        },
+        "calificacion": 49.05
+    },
+    "activo": {
+        "circulante": {
+            "cuentas_por_cobrar": {
+                "inicio": "35305",
+                "final": "26340"
+            },
+            "inventarios": {
+                "inicio": "52507",
+                "final": "50366"
+            },
+            "total": "128039"
+        },
+        "no_circulante": {
+            "total": 131245
+        },
+        "total": "259284"
+    },
+    "pasivo": {
+        "a_corto_plazo": {
+            "cuentas_por_pagar": {
+                "inicio": "53697",
+                "final": "45847"
+            },
+            "total": "106876"
+        },
+        "a_largo_plazo": {
+            "total": 98746
+        },
+        "total": "205622"
+    },
+    "capital_contable": {
+        "total": "Acciones preferidas rescatable"
+    },
+    "nombre": "ALFA A",
+    "ventas_netas": "76374",
+    "costo_de_ventas": "62236",
+    "utilidad_de_operacion": "3916",
+    "utilidad_neta": "-252",
+    "intereses": "-1621"
+}
