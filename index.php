@@ -166,52 +166,6 @@
             }
 
         </script>
-        <style rel="stylesheet">
-
-			/* CSS esclusivo a index */
-
-            .encabezado{
-                background-image: url(imagenes/finanzas3.png);
-                background-repeat: no-repeat;
-                background-position: top center;
-                background-size: 100%;
-            }
-
-            .barraEncabezado{
-                background-color: rgba(2,2,2,0);
-            }
-
-            .navbar {
-                -webkit-transition: all 0.6s ease-out;
-                -moz-transition: all 0.6s ease-out;
-                -o-transition: all 0.6s ease-out;
-                -ms-transition: all 0.6s ease-out;
-                transition: all 0.6s ease-out;
-            }
-
-            .navbar.scrolled {
-                background: rgba(2, 2, 2, 0.9);
-            }
-
-            .oculto{
-                display: none;
-            }
-
-            #cargando{
-                position: fixed;
-                top: 0px;
-                bottom: 0px;
-                left: 0px;
-                right: 0px;
-                background-color: rgba(0,0,0,0.8);
-                z-index: 10000;
-            }
-
-            #cargando p{
-                color: white;
-            }
-
-        </style>
     <head>
     <body>
 
@@ -336,6 +290,53 @@
                 return $regreso;
             }
         ?>
+
+<style rel="stylesheet">
+
+/* CSS esclusivo a index */
+
+.encabezado{
+    background-image: url(imagenes/finanzas3.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100%;
+}
+
+.barraEncabezado{
+    background-color: rgba(2,2,2,0);
+}
+
+.navbar {
+    -webkit-transition: all 0.6s ease-out;
+    -moz-transition: all 0.6s ease-out;
+    -o-transition: all 0.6s ease-out;
+    -ms-transition: all 0.6s ease-out;
+    transition: all 0.6s ease-out;
+}
+
+.navbar.scrolled {
+    background: rgba(2, 2, 2, 0.9);
+}
+
+.oculto{
+    display: none;
+}
+
+#cargando{
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: rgba(0,0,0,0.8);
+    z-index: 10000;
+}
+
+#cargando p{
+    color: white;
+}
+
+</style>
 
     <body>
 </html>
