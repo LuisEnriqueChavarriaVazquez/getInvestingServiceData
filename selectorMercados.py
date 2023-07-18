@@ -21,14 +21,14 @@ def get_href_from_urls(urls):
 
 # Lista de URLs para acceder a mercados concretos
 urls = [
-    # 'https://mx.investing.com/equities/americas',
+    'https://mx.investing.com/equities/americas',
     'https://mx.investing.com/equities/mexico',
     # 'https://mx.investing.com/equities/canada',
     # 'https://mx.investing.com/equities/argentina',
     # 'https://mx.investing.com/equities/brazil',
     # 'https://mx.investing.com/equities/spain',
     # 'https://mx.investing.com/equities/chile',
-    # 'https://mx.investing.com/equities/germany',
+    'https://mx.investing.com/equities/germany',
     # 'https://mx.investing.com/equities/switzerland'
 ]
 
