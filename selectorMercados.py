@@ -28,7 +28,7 @@ urls = [
     # 'https://mx.investing.com/equities/brazil',
     # 'https://mx.investing.com/equities/spain',
     # 'https://mx.investing.com/equities/chile',
-    'https://mx.investing.com/equities/germany',
+    # 'https://mx.investing.com/equities/germany',
     # 'https://mx.investing.com/equities/switzerland'
 ]
 
