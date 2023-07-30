@@ -52,4 +52,5 @@ with open('datos/balance-sheet.json', 'w') as file:
 #Corremos el programa para ejecutar la creación de words/json
 # Ejecutar el programa de Python
 subprocess.run(['python', 'obtencionDatosEmpresa.py'])
+subprocess.run(['python', 'obtencionNombresEmpresas.py'])
 
