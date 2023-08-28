@@ -54,5 +54,6 @@ with open('datos/balance-sheet.json', 'w') as file:
 subprocess.run(['python', 'obtencionDatosEmpresa.py'])
 subprocess.run(['python', 'obtencionNombresEmpresas.py'])
 subprocess.run(['python', 'obtenecionNombresSolos.py'])
+subprocess.run(['python', 'htmlToJsonConverterAll.py'])
 
 
