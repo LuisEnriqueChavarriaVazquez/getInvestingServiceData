@@ -44,44 +44,44 @@
       ],
       [
         "Costo de venta",
-        "10613",
+        "10453",
         "10404",
         "10897",
         "10846"
       ],
       [
         "Utilidad bruta",
-        "9940",
+        "10100",
         "9664",
         "9876",
         "9766"
       ],
       [
         "Total de gastos de operaci\u00f3n",
-        "16391",
+        "15731",
         "15734",
         "15900",
         "15678"
       ],
       [
-        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total-533050034832Gastos de Investigaci\u00f3n y Desarrollo----Depreciaci\u00f3n / Amortizaci\u00f3n-610574583Intereses pagados (Utilidad), Neto--222-171-123Gastos extraordinarios (Utilidad)----Otros gastos de Operaci\u00f3n, Total240-388-403-460",
+        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total5278533050034832Gastos de Investigaci\u00f3n y Desarrollo2000---Depreciaci\u00f3n / Amortizaci\u00f3n620610574583Intereses pagados (Utilidad), Neto-240-222-171-123Gastos extraordinarios (Utilidad)----Otros gastos de Operaci\u00f3n, Total-2380-388-403-460",
         "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total",
-        "-",
+        "5278",
         "5330",
         "5003",
         "4832",
         "Gastos de Investigaci\u00f3n y Desarrollo",
-        "-",
+        "2000",
         "-",
         "-",
         "-",
         "Depreciaci\u00f3n / Amortizaci\u00f3n",
-        "-",
+        "620",
         "610",
         "574",
         "583",
         "Intereses pagados (Utilidad), Neto",
-        "-",
+        "-240",
         "-222",
         "-171",
         "-123",
@@ -91,35 +91,35 @@
         "-",
         "-",
         "Otros gastos de Operaci\u00f3n, Total",
-        "240",
+        "-2380",
         "-388",
         "-403",
         "-460"
       ],
       [
         "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total",
-        "-",
+        "5278",
         "5330",
         "5003",
         "4832"
       ],
       [
         "Gastos de Investigaci\u00f3n y Desarrollo",
-        "-",
+        "2000",
         "-",
         "-",
         "-"
       ],
       [
         "Depreciaci\u00f3n / Amortizaci\u00f3n",
-        "-",
+        "620",
         "610",
         "574",
         "583"
       ],
       [
         "Intereses pagados (Utilidad), Neto",
-        "-",
+        "-240",
         "-222",
         "-171",
         "-123"
@@ -133,14 +133,14 @@
       ],
       [
         "Otros gastos de Operaci\u00f3n, Total",
-        "240",
+        "-2380",
         "-388",
         "-403",
         "-460"
       ],
       [
         "Utilidad de operaci\u00f3n",
-        "4162",
+        "4822",
         "4334",
         "4873",
         "4934"
@@ -154,14 +154,14 @@
       ],
       [
         "Utilidad en venta de activos fijos, neto",
-        "-",
+        "-10",
         "2",
         "-1",
         "9"
       ],
       [
         "Otros, neto",
-        "-71",
+        "599",
         "44",
         "39",
         "-72"
@@ -189,7 +189,7 @@
       ],
       [
         "Participaci\u00f3n no controladora",
-        "-",
+        "288",
         "281",
         "270",
         "259"
@@ -231,35 +231,35 @@
       ],
       [
         "Ajuste total al resultado Neto",
-        "-",
+        "-72",
         "-69",
         "-70",
         "-71"
       ],
       [
         "Ingreso disponible excluyendo partidas extraordinarias",
-        "3384",
+        "3312",
         "3328",
         "3863",
         "3868"
       ],
       [
         "Ajuste de diluci\u00f3n",
-        "-10.18",
+        "-",
         "-",
         "-",
         "-"
       ],
       [
         "Diluci\u00f3n de Utilidad neta",
-        "3394.18",
+        "3384",
         "3397",
         "3933",
         "3939"
       ],
       [
         "Diluci\u00f3n de promedio ponderado de acciones",
-        "-",
+        "2477.5",
         "2473.2",
         "2481.2",
         "2503.6"
@@ -280,7 +280,7 @@
       ],
       [
         "Diluci\u00f3n de las ganancias por acci\u00f3n b\u00e1sicas",
-        "1.06",
+        "1.15",
         "1.07",
         "1.21",
         "1.24"

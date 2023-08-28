@@ -10,15 +10,15 @@
     "data": [
       [
         "Ventas netas totales",
-        "-",
+        "35415",
         "34862",
         "33382",
         "32449"
       ],
       [
-        "Ventas Netas-348623338232449Otras ventas, Total----",
+        "Ventas Netas35415348623338232449Otras ventas, Total----",
         "Ventas Netas",
-        "-",
+        "35415",
         "34862",
         "33382",
         "32449",
@@ -30,7 +30,7 @@
       ],
       [
         "Ventas Netas",
-        "-",
+        "35415",
         "34862",
         "33382",
         "32449"
@@ -51,7 +51,7 @@
       ],
       [
         "Utilidad bruta",
-        "-",
+        "6589",
         "7055",
         "6953",
         "6411"
@@ -140,7 +140,7 @@
       ],
       [
         "Utilidad de operaci\u00f3n",
-        "517",
+        "-245",
         "277",
         "172",
         "1085"
@@ -154,42 +154,42 @@
       ],
       [
         "Utilidad en venta de activos fijos, neto",
-        "255",
+        "472",
         "755",
         "1158",
         "138"
       ],
       [
         "Otros, neto",
-        "640",
+        "-339",
         "-1092",
         "4276",
         "1683"
       ],
       [
         "Resultado antes de los impuestos a la utilidad",
-        "-",
+        "-378",
         "614",
         "-5262",
         "-736"
       ],
       [
         "Total de impuestos a la utilidad",
-        "-",
+        "-330",
         "70",
         "-1447",
         "-235"
       ],
       [
         "Resultado neto despu\u00e9s de impuestos a la utilidad",
-        "-",
+        "-48",
         "544",
         "-3815",
         "-501"
       ],
       [
         "Participaci\u00f3n no controladora",
-        "-",
+        "8456",
         "8405",
         "4163",
         "5133"
@@ -210,7 +210,7 @@
       ],
       [
         "Resultado antes de partidas extraordinarias",
-        "-",
+        "118",
         "703",
         "-3721",
         "-415"
@@ -224,7 +224,7 @@
       ],
       [
         "Resultado neto",
-        "-",
+        "118",
         "703",
         "-3721",
         "-415"
@@ -238,35 +238,35 @@
       ],
       [
         "Ingreso disponible excluyendo partidas extraordinarias",
-        "-",
+        "118",
         "703",
         "-3721",
         "-415"
       ],
       [
         "Ajuste de diluci\u00f3n",
-        "-",
+        "-2.93",
         "3.65",
         "1.12",
         "1.18"
       ],
       [
         "Diluci\u00f3n de Utilidad neta",
-        "-",
+        "120.93",
         "699.35",
         "-3722.12",
         "-416.18"
       ],
       [
         "Diluci\u00f3n de promedio ponderado de acciones",
-        "-",
+        "863.8",
         "863.4",
         "863.6",
         "864.5"
       ],
       [
         "Diluci\u00f3n de las ganancias por acci\u00f3n excluyendo partidas extraordinarias",
-        "-",
+        "0.137",
         "0.81",
         "-4.31",
         "-0.481"
@@ -280,7 +280,7 @@
       ],
       [
         "Diluci\u00f3n de las ganancias por acci\u00f3n b\u00e1sicas",
-        "0.495",
+        "-0.013",
         "0.391",
         "0.206",
         "0.888"

@@ -1,3 +1,5 @@
+#Este programa sirve para obtener los archivos JSON de los archivos HTML que hemos obtenido de la pagina de investing
+
 from bs4 import BeautifulSoup
 import os
 import json

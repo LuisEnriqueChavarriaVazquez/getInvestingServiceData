@@ -134,7 +134,7 @@
         "4414.6"
       ],
       [
-        "Inmuebles, mobiliario y equipo (neto)28902772.872474.252570.94Inmuebles, mobiliario y equipo (bruto)--2760.58-Depreciaci\u00f3n acumulada, Total---286.33-Cr\u00e9dito mercantil----Intangibles, Neto1312.4212.7211.42Inversiones permanentes----Documentos a cobrar a largo plazo-219.4178.65149.52Otros activos permanentes, Total561535.18706.59515.36Otros activos, Total5171.4251.72160.32",
+        "Inmuebles, mobiliario y equipo (neto)28902772.872474.252570.94Inmuebles, mobiliario y equipo (bruto)--2760.58-Depreciaci\u00f3n acumulada, Total---286.33-Cr\u00e9dito mercantil----Intangibles, Neto1312.4212.7211.42Inversiones permanentes1.45---Documentos a cobrar a largo plazo-219.4178.65149.52Otros activos permanentes, Total560.06535.18706.59515.36Otros activos, Total92.0771.4251.72160.32",
         "Inmuebles, mobiliario y equipo (neto)",
         "2890",
         "2772.87",
@@ -161,7 +161,7 @@
         "12.72",
         "11.42",
         "Inversiones permanentes",
-        "-",
+        "1.45",
         "-",
         "-",
         "-",
@@ -171,12 +171,12 @@
         "178.65",
         "149.52",
         "Otros activos permanentes, Total",
-        "561",
+        "560.06",
         "535.18",
         "706.59",
         "515.36",
         "Otros activos, Total",
-        "51",
+        "92.07",
         "71.42",
         "51.72",
         "160.32"
@@ -218,7 +218,7 @@
       ],
       [
         "Inversiones permanentes",
-        "-",
+        "1.45",
         "-",
         "-",
         "-"
@@ -232,14 +232,14 @@
       ],
       [
         "Otros activos permanentes, Total",
-        "561",
+        "560.06",
         "535.18",
         "706.59",
         "515.36"
       ],
       [
         "Otros activos, Total",
-        "51",
+        "92.07",
         "71.42",
         "51.72",
         "160.32"

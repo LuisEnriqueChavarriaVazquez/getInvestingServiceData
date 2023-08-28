@@ -3,72 +3,72 @@
     "headers": [
       "Periodo que termina:",
       "2023",
-      "2022",
+      "2023",
       "2022",
       "2022"
     ],
     "data": [
       [
         "Total de activos corrientes",
+        "47000",
         "45660",
         "43785",
-        "42577",
-        "41982"
+        "42577"
       ],
       [
-        "Efectivo e inversiones a corto plazo6267604274245872Efectivo----Efectivo y equivalentes de efectivo6017604254035213Inversiones a corto plazo250-2021659Cuentas por cobrar, Neto9425858475067852Cuentas por cobrar - Comercio, Neto9425858475067852Inventarios, Neto17633162701686015881Pagos anticipados244423952742113Otros activos corrientes, Neto9891104941051310264",
+        "Efectivo e inversiones a corto plazo6323626760427424Efectivo----Efectivo y equivalentes de efectivo6323601760425403Inversiones a corto plazo-250-2021Cuentas por cobrar, Neto9416942585847506Cuentas por cobrar - Comercio, Neto9416942585847506Inventarios, Neto17746176331627016860Pagos anticipados316324442395274Otros activos corrientes, Neto1035298911049410513",
         "Efectivo e inversiones a corto plazo",
+        "6323",
         "6267",
         "6042",
         "7424",
-        "5872",
         "Efectivo",
         "-",
         "-",
         "-",
         "-",
         "Efectivo y equivalentes de efectivo",
+        "6323",
         "6017",
         "6042",
         "5403",
-        "5213",
         "Inversiones a corto plazo",
+        "-",
         "250",
         "-",
         "2021",
-        "659",
         "Cuentas por cobrar, Neto",
+        "9416",
         "9425",
         "8584",
         "7506",
-        "7852",
         "Cuentas por cobrar - Comercio, Neto",
+        "9416",
         "9425",
         "8584",
         "7506",
-        "7852",
         "Inventarios, Neto",
+        "17746",
         "17633",
         "16270",
         "16860",
-        "15881",
         "Pagos anticipados",
+        "3163",
         "2444",
         "2395",
         "274",
-        "2113",
         "Otros activos corrientes, Neto",
+        "10352",
         "9891",
         "10494",
-        "10513",
-        "10264"
+        "10513"
       ],
       [
         "Efectivo e inversiones a corto plazo",
+        "6323",
         "6267",
         "6042",
-        "7424",
-        "5872"
+        "7424"
       ],
       [
         "Efectivo",
@@ -79,67 +79,67 @@
       ],
       [
         "Efectivo y equivalentes de efectivo",
+        "6323",
         "6017",
         "6042",
-        "5403",
-        "5213"
+        "5403"
       ],
       [
         "Inversiones a corto plazo",
+        "-",
         "250",
         "-",
-        "2021",
-        "659"
+        "2021"
       ],
       [
         "Cuentas por cobrar, Neto",
+        "9416",
         "9425",
         "8584",
-        "7506",
-        "7852"
+        "7506"
       ],
       [
         "Cuentas por cobrar - Comercio, Neto",
+        "9416",
         "9425",
         "8584",
-        "7506",
-        "7852"
+        "7506"
       ],
       [
         "Inventarios, Neto",
+        "17746",
         "17633",
         "16270",
-        "16860",
-        "15881"
+        "16860"
       ],
       [
         "Pagos anticipados",
+        "3163",
         "2444",
         "2395",
-        "274",
-        "2113"
+        "274"
       ],
       [
         "Otros activos corrientes, Neto",
+        "10352",
         "9891",
         "10494",
-        "10513",
-        "10264"
+        "10513"
       ],
       [
         "Total activo",
+        "85427",
         "83649",
         "81943",
-        "80907",
-        "81107"
+        "80907"
       ],
       [
-        "Inmuebles, mobiliario y equipo (neto)8090875078107852Inmuebles, mobiliario y equipo (bruto)----Depreciaci\u00f3n acumulada, Total----Cr\u00e9dito mercantil5309528860926195Intangibles, Neto694758806889Inversiones permanentes3237316427672777Documentos a cobrar a largo plazo----Otros activos permanentes, Total1317103116671830Otros activos, Total37691373474107638534",
+        "Inmuebles, mobiliario y equipo (neto)8102809087507810Inmuebles, mobiliario y equipo (bruto)----Depreciaci\u00f3n acumulada, Total----Cr\u00e9dito mercantil5293530952886092Intangibles, Neto630694758806Inversiones permanentes----Documentos a cobrar a largo plazo----Otros activos permanentes, Total4590455441954434Otros activos, Total38769376913734741076",
         "Inmuebles, mobiliario y equipo (neto)",
+        "8102",
         "8090",
         "8750",
         "7810",
-        "7852",
         "Inmuebles, mobiliario y equipo (bruto)",
         "-",
         "-",
@@ -151,42 +151,42 @@
         "-",
         "-",
         "Cr\u00e9dito mercantil",
+        "5293",
         "5309",
         "5288",
         "6092",
-        "6195",
         "Intangibles, Neto",
+        "630",
         "694",
         "758",
         "806",
-        "889",
         "Inversiones permanentes",
-        "3237",
-        "3164",
-        "2767",
-        "2777",
+        "-",
+        "-",
+        "-",
+        "-",
         "Documentos a cobrar a largo plazo",
         "-",
         "-",
         "-",
         "-",
         "Otros activos permanentes, Total",
-        "1317",
-        "1031",
-        "1667",
-        "1830",
+        "4590",
+        "4554",
+        "4195",
+        "4434",
         "Otros activos, Total",
+        "38769",
         "37691",
         "37347",
-        "41076",
-        "38534"
+        "41076"
       ],
       [
         "Inmuebles, mobiliario y equipo (neto)",
+        "8102",
         "8090",
         "8750",
-        "7810",
-        "7852"
+        "7810"
       ],
       [
         "Inmuebles, mobiliario y equipo (bruto)",
@@ -204,24 +204,24 @@
       ],
       [
         "Cr\u00e9dito mercantil",
+        "5293",
         "5309",
         "5288",
-        "6092",
-        "6195"
+        "6092"
       ],
       [
         "Intangibles, Neto",
+        "630",
         "694",
         "758",
-        "806",
-        "889"
+        "806"
       ],
       [
         "Inversiones permanentes",
-        "3237",
-        "3164",
-        "2767",
-        "2777"
+        "-",
+        "-",
+        "-",
+        "-"
       ],
       [
         "Documentos a cobrar a largo plazo",
@@ -232,64 +232,64 @@
       ],
       [
         "Otros activos permanentes, Total",
-        "1317",
-        "1031",
-        "1667",
-        "1830"
+        "4590",
+        "4554",
+        "4195",
+        "4434"
       ],
       [
         "Otros activos, Total",
+        "38769",
         "37691",
         "37347",
-        "41076",
-        "38534"
+        "41076"
       ],
       [
         "Total pasivos corrientes",
+        "35314",
         "31842",
         "31531",
-        "30202",
-        "28963"
+        "30202"
       ],
       [
-        "Cuentas por pagar8951868982608092Cuentas por pagar /Obligaciones----Inversiones a corto plazo5462595157825135Documentos por pagar/Deuda a corto plazo-33-Deudas con entidades de cr\u00e9dito y obligaciones u otros valores negociables37120120124Otras cuentas por pagar, Total17392166171603715612",
+        "Cuentas por pagar8443895186898260Cuentas por pagar /Obligaciones----Inversiones a corto plazo5721546259515782Documentos por pagar/Deuda a corto plazo--33Deudas con entidades de cr\u00e9dito y obligaciones u otros valores negociables104337271120Otras cuentas por pagar, Total20107173921661716037",
         "Cuentas por pagar",
+        "8443",
         "8951",
         "8689",
         "8260",
-        "8092",
         "Cuentas por pagar /Obligaciones",
         "-",
         "-",
         "-",
         "-",
         "Inversiones a corto plazo",
+        "5721",
         "5462",
         "5951",
         "5782",
-        "5135",
         "Documentos por pagar/Deuda a corto plazo",
         "-",
-        "3",
-        "3",
         "-",
+        "3",
+        "3",
         "Deudas con entidades de cr\u00e9dito y obligaciones u otros valores negociables",
+        "1043",
         "37",
+        "271",
         "120",
-        "120",
-        "124",
         "Otras cuentas por pagar, Total",
+        "20107",
         "17392",
         "16617",
-        "16037",
-        "15612"
+        "16037"
       ],
       [
         "Cuentas por pagar",
+        "8443",
         "8951",
         "8689",
-        "8260",
-        "8092"
+        "8260"
       ],
       [
         "Cuentas por pagar /Obligaciones",
@@ -300,123 +300,123 @@
       ],
       [
         "Inversiones a corto plazo",
+        "5721",
         "5462",
         "5951",
-        "5782",
-        "5135"
+        "5782"
       ],
       [
         "Documentos por pagar/Deuda a corto plazo",
         "-",
+        "-",
         "3",
-        "3",
-        "-"
+        "3"
       ],
       [
         "Deudas con entidades de cr\u00e9dito y obligaciones u otros valores negociables",
+        "1043",
         "37",
-        "120",
-        "120",
-        "124"
+        "271",
+        "120"
       ],
       [
         "Otras cuentas por pagar, Total",
+        "20107",
         "17392",
         "16617",
-        "16037",
-        "15612"
+        "16037"
       ],
       [
         "Total pasivo",
+        "67171",
         "65479",
         "66052",
-        "65285",
-        "65348"
+        "65285"
       ],
       [
-        "Deuda a largo plazo, Total9558949894799589Deuda a largo plazo9558944294799589Obligaciones por contratos de arrendamiento financiero-56--Impuesto a las ganancias diferido-471--Participaci\u00f3n no controladora21223132Otros pasivos, Total23821242902534826542",
+        "Deuda a largo plazo, Total8535955894989479Deuda a largo plazo8535955894429479Obligaciones por contratos de arrendamiento financiero--56-Impuesto a las ganancias diferido--471-Participaci\u00f3n no controladora21212231Otros pasivos, Total23301238212429025348",
         "Deuda a largo plazo, Total",
+        "8535",
         "9558",
         "9498",
         "9479",
-        "9589",
         "Deuda a largo plazo",
+        "8535",
         "9558",
         "9442",
         "9479",
-        "9589",
         "Obligaciones por contratos de arrendamiento financiero",
         "-",
-        "56",
         "-",
+        "56",
         "-",
         "Impuesto a las ganancias diferido",
         "-",
-        "471",
         "-",
+        "471",
         "-",
         "Participaci\u00f3n no controladora",
         "21",
+        "21",
         "22",
         "31",
-        "32",
         "Otros pasivos, Total",
+        "23301",
         "23821",
         "24290",
-        "25348",
-        "26542"
+        "25348"
       ],
       [
         "Deuda a largo plazo, Total",
+        "8535",
         "9558",
         "9498",
-        "9479",
-        "9589"
+        "9479"
       ],
       [
         "Deuda a largo plazo",
+        "8535",
         "9558",
         "9442",
-        "9479",
-        "9589"
+        "9479"
       ],
       [
         "Obligaciones por contratos de arrendamiento financiero",
         "-",
-        "56",
         "-",
+        "56",
         "-"
       ],
       [
         "Impuesto a las ganancias diferido",
         "-",
-        "471",
         "-",
+        "471",
         "-"
       ],
       [
         "Participaci\u00f3n no controladora",
         "21",
+        "21",
         "22",
-        "31",
-        "32"
+        "31"
       ],
       [
         "Otros pasivos, Total",
+        "23301",
         "23821",
         "24290",
-        "25348",
-        "26542"
+        "25348"
       ],
       [
         "Capital contable",
+        "18256",
         "18170",
         "15891",
-        "15622",
-        "15759"
+        "15622"
       ],
       [
-        "Acciones preferidas rescatable----Cr\u00e9dito mercantil----Acciones comunes Total6546656065236464Prima en venta de acciones----Resultado de ejercicios anteriores45457435144330441263Acciones en tesorer\u00eda - Acciones Comunes-32108-31748-30883-29501ESOP Acciones a empleados----Ganancia (p\u00e9rdida) no realizada----Otras participaciones, Total-1725-2435-3322-2467",
+        "Acciones preferidas rescatable----Cr\u00e9dito mercantil----Acciones comunes Total6478654665606523Prima en venta de acciones----Resultado de ejercicios anteriores47094454574351443304Acciones en tesorer\u00eda - Acciones Comunes-33391-32108-31748-30883ESOP Acciones a empleados----Ganancia (p\u00e9rdida) no realizada----Otras participaciones, Total-1925-1725-2435-3322",
         "Acciones preferidas rescatable",
         "-",
         "-",
@@ -428,25 +428,25 @@
         "-",
         "-",
         "Acciones comunes Total",
+        "6478",
         "6546",
         "6560",
         "6523",
-        "6464",
         "Prima en venta de acciones",
         "-",
         "-",
         "-",
         "-",
         "Resultado de ejercicios anteriores",
+        "47094",
         "45457",
         "43514",
         "43304",
-        "41263",
         "Acciones en tesorer\u00eda - Acciones Comunes",
+        "-33391",
         "-32108",
         "-31748",
         "-30883",
-        "-29501",
         "ESOP Acciones a empleados",
         "-",
         "-",
@@ -458,10 +458,10 @@
         "-",
         "-",
         "Otras participaciones, Total",
+        "-1925",
         "-1725",
         "-2435",
-        "-3322",
-        "-2467"
+        "-3322"
       ],
       [
         "Acciones preferidas rescatable",
@@ -479,10 +479,10 @@
       ],
       [
         "Acciones comunes Total",
+        "6478",
         "6546",
         "6560",
-        "6523",
-        "6464"
+        "6523"
       ],
       [
         "Prima en venta de acciones",
@@ -493,17 +493,17 @@
       ],
       [
         "Resultado de ejercicios anteriores",
+        "47094",
         "45457",
         "43514",
-        "43304",
-        "41263"
+        "43304"
       ],
       [
         "Acciones en tesorer\u00eda - Acciones Comunes",
+        "-33391",
         "-32108",
         "-31748",
-        "-30883",
-        "-29501"
+        "-30883"
       ],
       [
         "ESOP Acciones a empleados",
@@ -521,24 +521,24 @@
       ],
       [
         "Otras participaciones, Total",
+        "-1925",
         "-1725",
         "-2435",
-        "-3322",
-        "-2467"
+        "-3322"
       ],
       [
         "Total Pasivo y Capital Contable",
+        "85427",
         "83649",
         "81943",
-        "80907",
-        "81107"
+        "80907"
       ],
       [
         "Total de Acciones Comunes en circulaci\u00f3n",
+        "510.14",
         "515.92",
         "516.35",
-        "520.41",
-        "527.91"
+        "520.41"
       ],
       [
         "Total de Acciones preferidas en circulaci\u00f3n",

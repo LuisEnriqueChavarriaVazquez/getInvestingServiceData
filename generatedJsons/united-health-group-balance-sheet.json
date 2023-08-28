@@ -16,7 +16,7 @@
         "78915"
       ],
       [
-        "Efectivo e inversiones a corto plazo46279464972791142527Efectivo----Efectivo y equivalentes de efectivo41813419132336538845Inversiones a corto plazo4466458445463682Cuentas por cobrar, Neto17952371103045030731Cuentas por cobrar - Comercio, Neto----Inventarios, Neto----Pagos anticipados-645166215657Otros activos corrientes, Neto25638---",
+        "Efectivo e inversiones a corto plazo46279464972791142527Efectivo----Efectivo y equivalentes de efectivo41813419132336538845Inversiones a corto plazo4466458445463682Cuentas por cobrar, Neto34083371103045030731Cuentas por cobrar - Comercio, Neto17952224141768117047Inventarios, Neto----Pagos anticipados5884645166215657Otros activos corrientes, Neto----",
         "Efectivo e inversiones a corto plazo",
         "46279",
         "46497",
@@ -38,27 +38,27 @@
         "4546",
         "3682",
         "Cuentas por cobrar, Neto",
-        "17952",
+        "34083",
         "37110",
         "30450",
         "30731",
         "Cuentas por cobrar - Comercio, Neto",
-        "-",
-        "-",
-        "-",
-        "-",
+        "17952",
+        "22414",
+        "17681",
+        "17047",
         "Inventarios, Neto",
         "-",
         "-",
         "-",
         "-",
         "Pagos anticipados",
-        "-",
+        "5884",
         "6451",
         "6621",
         "5657",
         "Otros activos corrientes, Neto",
-        "25638",
+        "-",
         "-",
         "-",
         "-"
@@ -93,17 +93,17 @@
       ],
       [
         "Cuentas por cobrar, Neto",
-        "17952",
+        "34083",
         "37110",
         "30450",
         "30731"
       ],
       [
         "Cuentas por cobrar - Comercio, Neto",
-        "-",
-        "-",
-        "-",
-        "-"
+        "17952",
+        "22414",
+        "17681",
+        "17047"
       ],
       [
         "Inventarios, Neto",
@@ -114,14 +114,14 @@
       ],
       [
         "Pagos anticipados",
-        "-",
+        "5884",
         "6451",
         "6621",
         "5657"
       ],
       [
         "Otros activos corrientes, Neto",
-        "25638",
+        "-",
         "-",
         "-",
         "-"
@@ -134,9 +134,9 @@
         "243064"
       ],
       [
-        "Inmuebles, mobiliario y equipo (neto)-1063759239469Inmuebles, mobiliario y equipo (bruto)--10422-Depreciaci\u00f3n acumulada, Total---4499-Cr\u00e9dito mercantil-1004069335283904Intangibles, Neto-161651440110785Inversiones permanentes45988468844212841557Documentos a cobrar a largo plazo17952371103045030731Otros activos permanentes, Total144307195292071418434Otros activos, Total12152-32526-21699-27049",
+        "Inmuebles, mobiliario y equipo (neto)109261063759239469Inmuebles, mobiliario y equipo (bruto)--10422-Depreciaci\u00f3n acumulada, Total---4499-Cr\u00e9dito mercantil1016691004069335283904Intangibles, Neto15643161651440110785Inversiones permanentes45988468844212841557Documentos a cobrar a largo plazo16131146961276913684Otros activos permanentes, Total19692195292071418434Otros activos, Total-29617-32526-21699-27049",
         "Inmuebles, mobiliario y equipo (neto)",
-        "-",
+        "10926",
         "10637",
         "5923",
         "9469",
@@ -151,12 +151,12 @@
         "-4499",
         "-",
         "Cr\u00e9dito mercantil",
-        "-",
+        "101669",
         "100406",
         "93352",
         "83904",
         "Intangibles, Neto",
-        "-",
+        "15643",
         "16165",
         "14401",
         "10785",
@@ -166,24 +166,24 @@
         "42128",
         "41557",
         "Documentos a cobrar a largo plazo",
-        "17952",
-        "37110",
-        "30450",
-        "30731",
+        "16131",
+        "14696",
+        "12769",
+        "13684",
         "Otros activos permanentes, Total",
-        "144307",
+        "19692",
         "19529",
         "20714",
         "18434",
         "Otros activos, Total",
-        "12152",
+        "-29617",
         "-32526",
         "-21699",
         "-27049"
       ],
       [
         "Inmuebles, mobiliario y equipo (neto)",
-        "-",
+        "10926",
         "10637",
         "5923",
         "9469"
@@ -204,14 +204,14 @@
       ],
       [
         "Cr\u00e9dito mercantil",
-        "-",
+        "101669",
         "100406",
         "93352",
         "83904"
       ],
       [
         "Intangibles, Neto",
-        "-",
+        "15643",
         "16165",
         "14401",
         "10785"
@@ -225,21 +225,21 @@
       ],
       [
         "Documentos a cobrar a largo plazo",
-        "17952",
-        "37110",
-        "30450",
-        "30731"
+        "16131",
+        "14696",
+        "12769",
+        "13684"
       ],
       [
         "Otros activos permanentes, Total",
-        "144307",
+        "19692",
         "19529",
         "20714",
         "18434"
       ],
       [
         "Otros activos, Total",
-        "12152",
+        "-29617",
         "-32526",
         "-21699",
         "-27049"
@@ -535,7 +535,7 @@
       ],
       [
         "Total de Acciones Comunes en circulaci\u00f3n",
-        "940",
+        "927",
         "932",
         "934",
         "935.38"

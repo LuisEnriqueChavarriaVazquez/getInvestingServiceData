@@ -16,7 +16,7 @@
         "76193.94"
       ],
       [
-        "Efectivo e inversiones a corto plazo30948.9241147.234027739205.83Efectivo----Efectivo y equivalentes de efectivo30948.9241147.234027739205.83Inversiones a corto plazo----Cuentas por cobrar, Neto-19205.032223019774.5Cuentas por cobrar - Comercio, Neto-11270.251459110469.38Inventarios, Neto12066.9713842.481336613146.04Pagos anticipados--100-Otros activos corrientes, Neto4155.854629.9732394067.59",
+        "Efectivo e inversiones a corto plazo30948.9241147.234027739205.83Efectivo----Efectivo y equivalentes de efectivo30948.9241147.234027739205.83Inversiones a corto plazo----Cuentas por cobrar, Neto18525.5819205.032223019774.5Cuentas por cobrar - Comercio, Neto11095.1711270.251459110469.38Inventarios, Neto12066.9713842.481336613146.04Pagos anticipados--100-Otros activos corrientes, Neto4155.854629.9732394067.59",
         "Efectivo e inversiones a corto plazo",
         "30948.92",
         "41147.23",
@@ -38,12 +38,12 @@
         "-",
         "-",
         "Cuentas por cobrar, Neto",
-        "-",
+        "18525.58",
         "19205.03",
         "22230",
         "19774.5",
         "Cuentas por cobrar - Comercio, Neto",
-        "-",
+        "11095.17",
         "11270.25",
         "14591",
         "10469.38",
@@ -93,14 +93,14 @@
       ],
       [
         "Cuentas por cobrar, Neto",
-        "-",
+        "18525.58",
         "19205.03",
         "22230",
         "19774.5"
       ],
       [
         "Cuentas por cobrar - Comercio, Neto",
-        "-",
+        "11095.17",
         "11270.25",
         "14591",
         "10469.38"
@@ -134,7 +134,7 @@
         "271555.97"
       ],
       [
-        "Inmuebles, mobiliario y equipo (neto)73348.6772046.357327467628.8Inmuebles, mobiliario y equipo (bruto)--129896-Depreciaci\u00f3n acumulada, Total---56622-Cr\u00e9dito mercantil23549.1420808.12325822958.45Intangibles, Neto77493.680552.2110312280907.68Inversiones permanentes-8545.3484528345.58Documentos a cobrar a largo plazo7430.417934.7875559305.12Otros activos permanentes, Total5565.085618.9559608085.22Otros activos, Total6916.548084.6-208244875.44",
+        "Inmuebles, mobiliario y equipo (neto)73348.6772046.357327467628.8Inmuebles, mobiliario y equipo (bruto)--129896-Depreciaci\u00f3n acumulada, Total---56622-Cr\u00e9dito mercantil23549.1420808.12325822958.45Intangibles, Neto77493.680552.2110312280907.68Inversiones permanentes8442.318545.3484528345.58Documentos a cobrar a largo plazo7430.417934.7875559305.12Otros activos permanentes, Total5565.085618.9559608085.22Otros activos, Total6916.548084.6-208244875.44",
         "Inmuebles, mobiliario y equipo (neto)",
         "73348.67",
         "72046.35",
@@ -161,7 +161,7 @@
         "103122",
         "80907.68",
         "Inversiones permanentes",
-        "-",
+        "8442.31",
         "8545.34",
         "8452",
         "8345.58",
@@ -218,7 +218,7 @@
       ],
       [
         "Inversiones permanentes",
-        "-",
+        "8442.31",
         "8545.34",
         "8452",
         "8345.58"
@@ -334,14 +334,14 @@
         "144795.7"
       ],
       [
-        "Deuda a largo plazo, Total72212.3172744.747497669752.3Deuda a largo plazo-71046.017331368811.54Obligaciones por contratos de arrendamiento financiero1817.451698.721663940.76Impuesto a las ganancias diferido2747.893024.3428392446.18Participaci\u00f3n no controladora6464.656425.9664916306.4Otros pasivos, Total2264.532292.4527012558.6",
+        "Deuda a largo plazo, Total72212.3172744.747497669752.3Deuda a largo plazo70394.8671046.017331368811.54Obligaciones por contratos de arrendamiento financiero1817.451698.721663940.76Impuesto a las ganancias diferido2747.893024.3428392446.18Participaci\u00f3n no controladora6464.656425.9664916306.4Otros pasivos, Total2264.532292.4527012558.6",
         "Deuda a largo plazo, Total",
         "72212.31",
         "72744.74",
         "74976",
         "69752.3",
         "Deuda a largo plazo",
-        "-",
+        "70394.86",
         "71046.01",
         "73313",
         "68811.54",
@@ -375,7 +375,7 @@
       ],
       [
         "Deuda a largo plazo",
-        "-",
+        "70394.86",
         "71046.01",
         "73313",
         "68811.54"

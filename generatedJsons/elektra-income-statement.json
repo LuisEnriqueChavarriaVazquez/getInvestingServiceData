@@ -10,34 +10,34 @@
     "data": [
       [
         "Ventas netas totales",
-        "-",
+        "22193.45",
         "22315.66",
         "21324.66",
         "21392.03"
       ],
       [
-        "Ventas Netas--1021.9823078.64490.63Otras ventas, Total-23337.64-1753.9820901.4",
+        "Ventas Netas-1511.36-1021.9823078.64490.63Otras ventas, Total23704.823337.64-1753.9820901.4",
         "Ventas Netas",
-        "-",
+        "-1511.36",
         "-1021.98",
         "23078.64",
         "490.63",
         "Otras ventas, Total",
-        "-",
+        "23704.8",
         "23337.64",
         "-1753.98",
         "20901.4"
       ],
       [
         "Ventas Netas",
-        "-",
+        "-1511.36",
         "-1021.98",
         "23078.64",
         "490.63"
       ],
       [
         "Otras ventas, Total",
-        "-",
+        "23704.8",
         "23337.64",
         "-1753.98",
         "20901.4"
@@ -51,22 +51,22 @@
       ],
       [
         "Utilidad bruta",
-        "-",
+        "22193.45",
         "22315.66",
         "21324.66",
         "21392.03"
       ],
       [
         "Total de gastos de operaci\u00f3n",
-        "-",
+        "15510.67",
         "21743.54",
         "19363.77",
         "24886.6"
       ],
       [
-        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total-18547.6621335.1519591.33Gastos de Investigaci\u00f3n y Desarrollo----Depreciaci\u00f3n / Amortizaci\u00f3n-2390.12-6887.372318.44Intereses pagados (Utilidad), Neto----Gastos extraordinarios (Utilidad)----Otros gastos de Operaci\u00f3n, Total-805.774915.992976.84",
+        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total18951.7218547.6621335.1519591.33Gastos de Investigaci\u00f3n y Desarrollo----Depreciaci\u00f3n / Amortizaci\u00f3n2394.32390.12-6887.372318.44Intereses pagados (Utilidad), Neto----Gastos extraordinarios (Utilidad)----Otros gastos de Operaci\u00f3n, Total-5835.35805.774915.992976.84",
         "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total",
-        "-",
+        "18951.72",
         "18547.66",
         "21335.15",
         "19591.33",
@@ -76,7 +76,7 @@
         "-",
         "-",
         "Depreciaci\u00f3n / Amortizaci\u00f3n",
-        "-",
+        "2394.3",
         "2390.12",
         "-6887.37",
         "2318.44",
@@ -91,14 +91,14 @@
         "-",
         "-",
         "Otros gastos de Operaci\u00f3n, Total",
-        "-",
+        "-5835.35",
         "805.77",
         "4915.99",
         "2976.84"
       ],
       [
         "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total",
-        "-",
+        "18951.72",
         "18547.66",
         "21335.15",
         "19591.33"
@@ -112,7 +112,7 @@
       ],
       [
         "Depreciaci\u00f3n / Amortizaci\u00f3n",
-        "-",
+        "2394.3",
         "2390.12",
         "-6887.37",
         "2318.44"
@@ -133,14 +133,14 @@
       ],
       [
         "Otros gastos de Operaci\u00f3n, Total",
-        "-",
+        "-5835.35",
         "805.77",
         "4915.99",
         "2976.84"
       ],
       [
         "Utilidad de operaci\u00f3n",
-        "6611",
+        "6682.78",
         "572.11",
         "1960.89",
         "-3494.58"
@@ -161,35 +161,35 @@
       ],
       [
         "Otros, neto",
-        "-420",
+        "-348.12",
         "-56.3",
         "-149.71",
         "19.19"
       ],
       [
         "Resultado antes de los impuestos a la utilidad",
-        "-",
+        "7030.9",
         "628.41",
         "2110.6",
         "-3513.77"
       ],
       [
         "Total de impuestos a la utilidad",
-        "-",
+        "2092.05",
         "169.18",
         "699.53",
         "-1130.37"
       ],
       [
         "Resultado neto despu\u00e9s de impuestos a la utilidad",
-        "-",
+        "4938.85",
         "459.23",
         "1411.07",
         "-2383.4"
       ],
       [
         "Participaci\u00f3n no controladora",
-        "-",
+        "2.36",
         "2.24",
         "2.57",
         "2.61"
@@ -210,63 +210,63 @@
       ],
       [
         "Resultado antes de partidas extraordinarias",
-        "4939",
+        "4939.17",
         "459.63",
         "1411.16",
         "-2383.31"
       ],
       [
         "Total de partidas extraordinarias",
-        "5",
+        "5.17",
         "-0.103",
         "0.098",
         "-0.874"
       ],
       [
         "Resultado neto",
-        "-",
+        "4944.34",
         "459.53",
         "1411.26",
         "-2384.18"
       ],
       [
         "Ajuste total al resultado Neto",
-        "-",
+        "-5.17",
         "0.103",
         "-0.098",
         "0.874"
       ],
       [
         "Ingreso disponible excluyendo partidas extraordinarias",
-        "-",
+        "4939.17",
         "459.63",
         "1411.16",
         "-2383.31"
       ],
       [
         "Ajuste de diluci\u00f3n",
-        "-",
+        "-0.201",
         "-0.928",
         "-0.412",
         "0.951"
       ],
       [
         "Diluci\u00f3n de Utilidad neta",
-        "-",
+        "4944.54",
         "460.45",
         "1411.67",
         "-2385.13"
       ],
       [
         "Diluci\u00f3n de promedio ponderado de acciones",
-        "-",
+        "221.13",
         "221.37",
         "221.7",
         "225.86"
       ],
       [
         "Diluci\u00f3n de las ganancias por acci\u00f3n excluyendo partidas extraordinarias",
-        "-",
+        "22.34",
         "2.08",
         "6.37",
         "-10.56"
@@ -275,12 +275,12 @@
         "Dividendo por acci\u00f3n - Acciones Comunes distribuci\u00f3n primaria",
         "-",
         "-",
-        "-",
+        "5.2",
         "-"
       ],
       [
         "Diluci\u00f3n de las ganancias por acci\u00f3n b\u00e1sicas",
-        "-",
+        "19.87",
         "1.78",
         "6.17",
         "-9.72"

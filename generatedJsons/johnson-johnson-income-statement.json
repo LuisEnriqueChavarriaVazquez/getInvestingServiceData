@@ -44,44 +44,44 @@
       ],
       [
         "Costo de venta",
-        "8202",
+        "8012",
         "8195",
         "7711",
         "7794"
       ],
       [
         "Utilidad bruta",
-        "17328",
+        "17518",
         "16551",
         "15995",
         "15997"
       ],
       [
         "Total de gastos de operaci\u00f3n",
-        "18552",
+        "18148",
         "17545",
         "17778",
         "17193"
       ],
       [
-        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total6613578762265802Gastos de Investigaci\u00f3n y Desarrollo3737356338413597Depreciaci\u00f3n / Amortizaci\u00f3n-680-2028685Intereses pagados (Utilidad), Neto--215-177-51Gastos extraordinarios (Utilidad)----Otros gastos de Operaci\u00f3n, Total--4652205-634",
+        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total6307578762265802Gastos de Investigaci\u00f3n y Desarrollo3829356338413597Depreciaci\u00f3n / Amortizaci\u00f3n734680-2028685Intereses pagados (Utilidad), Neto-346-215-177-51Gastos extraordinarios (Utilidad)----Otros gastos de Operaci\u00f3n, Total-388-4652205-634",
         "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total",
-        "6613",
+        "6307",
         "5787",
         "6226",
         "5802",
         "Gastos de Investigaci\u00f3n y Desarrollo",
-        "3737",
+        "3829",
         "3563",
         "3841",
         "3597",
         "Depreciaci\u00f3n / Amortizaci\u00f3n",
-        "-",
+        "734",
         "680",
         "-2028",
         "685",
         "Intereses pagados (Utilidad), Neto",
-        "-",
+        "-346",
         "-215",
         "-177",
         "-51",
@@ -91,35 +91,35 @@
         "-",
         "-",
         "Otros gastos de Operaci\u00f3n, Total",
-        "-",
+        "-388",
         "-465",
         "2205",
         "-634"
       ],
       [
         "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total",
-        "6613",
+        "6307",
         "5787",
         "6226",
         "5802"
       ],
       [
         "Gastos de Investigaci\u00f3n y Desarrollo",
-        "3737",
+        "3829",
         "3563",
         "3841",
         "3597"
       ],
       [
         "Depreciaci\u00f3n / Amortizaci\u00f3n",
-        "-",
+        "734",
         "680",
         "-2028",
         "685"
       ],
       [
         "Intereses pagados (Utilidad), Neto",
-        "-",
+        "-346",
         "-215",
         "-177",
         "-51"
@@ -133,14 +133,14 @@
       ],
       [
         "Otros gastos de Operaci\u00f3n, Total",
-        "-",
+        "-388",
         "-465",
         "2205",
         "-634"
       ],
       [
         "Utilidad de operaci\u00f3n",
-        "6978",
+        "7382",
         "7201",
         "5928",
         "6598"
@@ -161,7 +161,7 @@
       ],
       [
         "Otros, neto",
-        "215",
+        "620",
         "8014",
         "1560",
         "976"
@@ -189,7 +189,7 @@
       ],
       [
         "Participaci\u00f3n no controladora",
-        "-",
+        "1260",
         "-",
         "-",
         "-"
@@ -280,7 +280,7 @@
       ],
       [
         "Diluci\u00f3n de las ganancias por acci\u00f3n b\u00e1sicas",
-        "1.81",
+        "1.78",
         "1.8",
         "1.49",
         "1.6"

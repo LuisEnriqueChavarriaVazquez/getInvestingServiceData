@@ -252,7 +252,7 @@
         "20290.17"
       ],
       [
-        "Cuentas por pagar5057.984755.644252.84163.71Cuentas por pagar /Obligaciones----Inversiones a corto plazo365.444488.195667.415594.68Documentos por pagar/Deuda a corto plazo3310.53-1375.79-Deudas con entidades de cr\u00e9dito y obligaciones u otros valores negociables3905.944924.645381.55006.58Otras cuentas por pagar, Total10349.165403.34861.125525.2",
+        "Cuentas por pagar5057.984755.644252.84163.71Cuentas por pagar /Obligaciones----Inversiones a corto plazo-4488.195667.415594.68Documentos por pagar/Deuda a corto plazo--1375.79-Deudas con entidades de cr\u00e9dito y obligaciones u otros valores negociables7216.474924.645381.55006.58Otras cuentas por pagar, Total10714.65403.34861.125525.2",
         "Cuentas por pagar",
         "5057.98",
         "4755.64",
@@ -264,22 +264,22 @@
         "-",
         "-",
         "Inversiones a corto plazo",
-        "365.44",
+        "-",
         "4488.19",
         "5667.41",
         "5594.68",
         "Documentos por pagar/Deuda a corto plazo",
-        "3310.53",
+        "-",
         "-",
         "1375.79",
         "-",
         "Deudas con entidades de cr\u00e9dito y obligaciones u otros valores negociables",
-        "3905.94",
+        "7216.47",
         "4924.64",
         "5381.5",
         "5006.58",
         "Otras cuentas por pagar, Total",
-        "10349.16",
+        "10714.6",
         "5403.3",
         "4861.12",
         "5525.2"
@@ -300,41 +300,41 @@
       ],
       [
         "Inversiones a corto plazo",
-        "365.44",
+        "-",
         "4488.19",
         "5667.41",
         "5594.68"
       ],
       [
         "Documentos por pagar/Deuda a corto plazo",
-        "3310.53",
+        "-",
         "-",
         "1375.79",
         "-"
       ],
       [
         "Deudas con entidades de cr\u00e9dito y obligaciones u otros valores negociables",
-        "3905.94",
+        "7216.47",
         "4924.64",
         "5381.5",
         "5006.58"
       ],
       [
         "Otras cuentas por pagar, Total",
-        "10349.16",
+        "10714.6",
         "5403.3",
         "4861.12",
         "5525.2"
       ],
       [
         "Total pasivo",
-        "60619.09",
+        "67044.75",
         "68102.12",
         "69627.62",
         "68839.92"
       ],
       [
-        "Deuda a largo plazo, Total37843.7241782.0144231.7744044.17Deuda a largo plazo22219.9625066.4926511.227067.5Obligaciones por contratos de arrendamiento financiero15623.7616715.5217720.5716976.67Impuesto a las ganancias diferido3844.413407.96826.753212.29Participaci\u00f3n no controladora956.84957.45951.01987.42Otros pasivos, Total-8325.47-2213.06-5712.53-4737.33",
+        "Deuda a largo plazo, Total37843.7241782.0144231.7744044.17Deuda a largo plazo22219.9625066.4926511.227067.5Obligaciones por contratos de arrendamiento financiero15623.7616715.5217720.5716976.67Impuesto a las ganancias diferido3844.413407.96826.753212.29Participaci\u00f3n no controladora956.84957.45951.01987.42Otros pasivos, Total-2072.33-2213.06-5712.53-4737.33",
         "Deuda a largo plazo, Total",
         "37843.72",
         "41782.01",
@@ -361,7 +361,7 @@
         "951.01",
         "987.42",
         "Otros pasivos, Total",
-        "-8325.47",
+        "-2072.33",
         "-2213.06",
         "-5712.53",
         "-4737.33"
@@ -403,20 +403,20 @@
       ],
       [
         "Otros pasivos, Total",
-        "-8325.47",
+        "-2072.33",
         "-2213.06",
         "-5712.53",
         "-4737.33"
       ],
       [
         "Capital contable",
-        "14789.24",
+        "8363.58",
         "8527.99",
         "8829.66",
         "8547.11"
       ],
       [
-        "Acciones preferidas rescatable----Cr\u00e9dito mercantil----Acciones comunes Total478.75478.75478.75478.75Prima en venta de acciones8675.418675.418675.418675.41Resultado de ejercicios anteriores4678.24970.32312.122862Acciones en tesorer\u00eda - Acciones Comunes----ESOP Acciones a empleados----Ganancia (p\u00e9rdida) no realizada----Otras participaciones, Total956.84-1596.49-636.61-3469.05",
+        "Acciones preferidas rescatable----Cr\u00e9dito mercantil----Acciones comunes Total478.75478.75478.75478.75Prima en venta de acciones8675.418675.418675.418675.41Resultado de ejercicios anteriores-1747.42970.32312.122862Acciones en tesorer\u00eda - Acciones Comunes----ESOP Acciones a empleados----Ganancia (p\u00e9rdida) no realizada----Otras participaciones, Total956.84-1596.49-636.61-3469.05",
         "Acciones preferidas rescatable",
         "-",
         "-",
@@ -438,7 +438,7 @@
         "8675.41",
         "8675.41",
         "Resultado de ejercicios anteriores",
-        "4678.24",
+        "-1747.42",
         "970.32",
         "312.12",
         "2862",
@@ -493,7 +493,7 @@
       ],
       [
         "Resultado de ejercicios anteriores",
-        "4678.24",
+        "-1747.42",
         "970.32",
         "312.12",
         "2862"

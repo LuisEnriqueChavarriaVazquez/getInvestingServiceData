@@ -10,15 +10,15 @@
     "data": [
       [
         "Ventas netas totales",
-        "-",
+        "2177",
         "2280",
         "2100.38",
         "2290.57"
       ],
       [
-        "Ventas Netas-22802100.382290.57Otras ventas, Total----",
+        "Ventas Netas217722802100.382290.57Otras ventas, Total----",
         "Ventas Netas",
-        "-",
+        "2177",
         "2280",
         "2100.38",
         "2290.57",
@@ -30,7 +30,7 @@
       ],
       [
         "Ventas Netas",
-        "-",
+        "2177",
         "2280",
         "2100.38",
         "2290.57"
@@ -44,29 +44,29 @@
       ],
       [
         "Costo de venta",
-        "1541",
+        "1542",
         "1620",
         "1619.78",
         "1766.87"
       ],
       [
         "Utilidad bruta",
-        "636",
+        "635",
         "660",
         "480.6",
         "523.7"
       ],
       [
         "Total de gastos de operaci\u00f3n",
-        "-",
+        "1880",
         "1957",
         "1932.89",
         "2056.44"
       ],
       [
-        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total342329305.77292.76Gastos de Investigaci\u00f3n y Desarrollo----Depreciaci\u00f3n / Amortizaci\u00f3n-146-400.69146.9Intereses pagados (Utilidad), Neto-132-79-117.85-62.62Gastos extraordinarios (Utilidad)----Otros gastos de Operaci\u00f3n, Total132-59525.88-87.46",
+        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total335329305.77292.76Gastos de Investigaci\u00f3n y Desarrollo----Depreciaci\u00f3n / Amortizaci\u00f3n147146-400.69146.9Intereses pagados (Utilidad), Neto-85-79-117.85-62.62Gastos extraordinarios (Utilidad)----Otros gastos de Operaci\u00f3n, Total-59-59525.88-87.46",
         "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total",
-        "342",
+        "335",
         "329",
         "305.77",
         "292.76",
@@ -76,12 +76,12 @@
         "-",
         "-",
         "Depreciaci\u00f3n / Amortizaci\u00f3n",
-        "-",
+        "147",
         "146",
         "-400.69",
         "146.9",
         "Intereses pagados (Utilidad), Neto",
-        "-132",
+        "-85",
         "-79",
         "-117.85",
         "-62.62",
@@ -91,14 +91,14 @@
         "-",
         "-",
         "Otros gastos de Operaci\u00f3n, Total",
-        "132",
+        "-59",
         "-59",
         "525.88",
         "-87.46"
       ],
       [
         "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total",
-        "342",
+        "335",
         "329",
         "305.77",
         "292.76"
@@ -112,14 +112,14 @@
       ],
       [
         "Depreciaci\u00f3n / Amortizaci\u00f3n",
-        "-",
+        "147",
         "146",
         "-400.69",
         "146.9"
       ],
       [
         "Intereses pagados (Utilidad), Neto",
-        "-132",
+        "-85",
         "-79",
         "-117.85",
         "-62.62"
@@ -133,14 +133,14 @@
       ],
       [
         "Otros gastos de Operaci\u00f3n, Total",
-        "132",
+        "-59",
         "-59",
         "525.88",
         "-87.46"
       ],
       [
         "Utilidad de operaci\u00f3n",
-        "294",
+        "297",
         "323",
         "167.5",
         "234.12"
@@ -161,14 +161,14 @@
       ],
       [
         "Otros, neto",
-        "134",
+        "136",
         "100",
         "-33.59",
         "101.8"
       ],
       [
         "Resultado antes de los impuestos a la utilidad",
-        "160",
+        "161",
         "223",
         "80.08",
         "132.32"
@@ -182,7 +182,7 @@
       ],
       [
         "Resultado neto despu\u00e9s de impuestos a la utilidad",
-        "31",
+        "32",
         "80",
         "-20.9",
         "107.27"
@@ -224,7 +224,7 @@
       ],
       [
         "Resultado neto",
-        "-",
+        "8",
         "55",
         "-35.36",
         "86.44"
@@ -259,7 +259,7 @@
       ],
       [
         "Diluci\u00f3n de promedio ponderado de acciones",
-        "1906.9",
+        "1904.76",
         "1833.33",
         "1800",
         "2160.88"
@@ -280,7 +280,7 @@
       ],
       [
         "Diluci\u00f3n de las ganancias por acci\u00f3n b\u00e1sicas",
-        "0.042",
+        "0.04",
         "0.062",
         "0.028",
         "0.029"

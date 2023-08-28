@@ -64,7 +64,7 @@
         "3095.7"
       ],
       [
-        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total567.5553.3720.3576.4Gastos de Investigaci\u00f3n y Desarrollo----Depreciaci\u00f3n / Amortizaci\u00f3n-490.5-990.9465.6Intereses pagados (Utilidad), Neto-330.2-329.7-322.9-306.2Gastos extraordinarios (Utilidad)----Otros gastos de Operaci\u00f3n, Total425.4-61.51405-66.1",
+        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total567.5553.3720.3576.4Gastos de Investigaci\u00f3n y Desarrollo----Depreciaci\u00f3n / Amortizaci\u00f3n492.2490.5-990.9465.6Intereses pagados (Utilidad), Neto-330.2-329.7-322.9-306.2Gastos extraordinarios (Utilidad)----Otros gastos de Operaci\u00f3n, Total-66.8-61.51405-66.1",
         "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total",
         "567.5",
         "553.3",
@@ -76,7 +76,7 @@
         "-",
         "-",
         "Depreciaci\u00f3n / Amortizaci\u00f3n",
-        "-",
+        "492.2",
         "490.5",
         "-990.9",
         "465.6",
@@ -91,7 +91,7 @@
         "-",
         "-",
         "Otros gastos de Operaci\u00f3n, Total",
-        "425.4",
+        "-66.8",
         "-61.5",
         "1405",
         "-66.1"
@@ -112,7 +112,7 @@
       ],
       [
         "Depreciaci\u00f3n / Amortizaci\u00f3n",
-        "-",
+        "492.2",
         "490.5",
         "-990.9",
         "465.6"
@@ -133,7 +133,7 @@
       ],
       [
         "Otros gastos de Operaci\u00f3n, Total",
-        "425.4",
+        "-66.8",
         "-61.5",
         "1405",
         "-66.1"
