@@ -134,7 +134,7 @@
         "93054"
       ],
       [
-        "Inmuebles, mobiliario y equipo (neto)2085306429422901Inmuebles, mobiliario y equipo (bruto)-111011107010956Depreciaci\u00f3n acumulada, Total--8037-8128-8055Cr\u00e9dito mercantil38535383693838838160Intangibles, Neto1818196621342360Inversiones permanentes-150033003300Documentos a cobrar a largo plazo----Otros activos permanentes, Total9490347016861683Otros activos, Total21389241042079319114",
+        "Inmuebles, mobiliario y equipo (neto)2085306429422901Inmuebles, mobiliario y equipo (bruto)-111011107010956Depreciaci\u00f3n acumulada, Total--8037-8128-8055Cr\u00e9dito mercantil38535383693838838160Intangibles, Neto1818196621342360Inversiones permanentes-330033003300Documentos a cobrar a largo plazo----Otros activos permanentes, Total6007167016861683Otros activos, Total24872241042079319114",
         "Inmuebles, mobiliario y equipo (neto)",
         "2085",
         "3064",
@@ -162,7 +162,7 @@
         "2360",
         "Inversiones permanentes",
         "-",
-        "1500",
+        "3300",
         "3300",
         "3300",
         "Documentos a cobrar a largo plazo",
@@ -171,12 +171,12 @@
         "-",
         "-",
         "Otros activos permanentes, Total",
-        "9490",
-        "3470",
+        "6007",
+        "1670",
         "1686",
         "1683",
         "Otros activos, Total",
-        "21389",
+        "24872",
         "24104",
         "20793",
         "19114"
@@ -219,7 +219,7 @@
       [
         "Inversiones permanentes",
         "-",
-        "1500",
+        "3300",
         "3300",
         "3300"
       ],
@@ -232,14 +232,14 @@
       ],
       [
         "Otros activos permanentes, Total",
-        "9490",
-        "3470",
+        "6007",
+        "1670",
         "1686",
         "1683"
       ],
       [
         "Otros activos, Total",
-        "21389",
+        "24872",
         "24104",
         "20793",
         "19114"
@@ -535,7 +535,7 @@
       ],
       [
         "Total de Acciones Comunes en circulaci\u00f3n",
-        "4071",
+        "4066",
         "4075",
         "4095",
         "4103"
