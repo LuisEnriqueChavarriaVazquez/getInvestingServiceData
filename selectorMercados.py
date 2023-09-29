@@ -52,7 +52,7 @@ def get_href_from_urls(urls):
 urls = [
     'https://mx.investing.com/equities/americas',
     'https://mx.investing.com/equities/mexico',
-    'https://mx.investing.com/equities/canada',
+    #'https://mx.investing.com/equities/canada',
     'https://mx.investing.com/equities/argentina',
     'https://mx.investing.com/equities/brazil',
     'https://mx.investing.com/equities/spain',
@@ -62,10 +62,10 @@ urls = [
     'https://mx.investing.com/equities/venezuela',
     'https://mx.investing.com/equities/peru',
     'https://mx.investing.com/equities/colombia',
-    'https://mx.investing.com/equities/china',
-    'https://mx.investing.com/equities/india',
+    #'https://mx.investing.com/equities/china',
+    #'https://mx.investing.com/equities/india',
     'https://mx.investing.com/equities/russia',
-    'https://mx.investing.com/equities/japan'
+    #'https://mx.investing.com/equities/japan'
 ]
 
 ##CODIGO PARA LA FUNCION get_company_info_from_urls
