@@ -1,0 +1,290 @@
+{
+  "2023": {
+    "headers": [
+      "Periodo que termina:",
+      "2023",
+      "2023",
+      "2022",
+      "2022"
+    ],
+    "data": [
+      [
+        "Ventas netas totales",
+        "300.62",
+        "221.1",
+        "479.83",
+        "327.85"
+      ],
+      [
+        "Ventas Netas300.62221.1-44.48479.27Otras ventas, Total--524.31-151.42",
+        "Ventas Netas",
+        "300.62",
+        "221.1",
+        "-44.48",
+        "479.27",
+        "Otras ventas, Total",
+        "-",
+        "-",
+        "524.31",
+        "-151.42"
+      ],
+      [
+        "Ventas Netas",
+        "300.62",
+        "221.1",
+        "-44.48",
+        "479.27"
+      ],
+      [
+        "Otras ventas, Total",
+        "-",
+        "-",
+        "524.31",
+        "-151.42"
+      ],
+      [
+        "Costo de venta",
+        "252.76",
+        "172.67",
+        "418.88",
+        "275.35"
+      ],
+      [
+        "Utilidad bruta",
+        "47.85",
+        "48.43",
+        "60.95",
+        "52.5"
+      ],
+      [
+        "Total de gastos de operaci\u00f3n",
+        "287.14",
+        "213.87",
+        "498.15",
+        "296.58"
+      ],
+      [
+        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total31.8641.6569.3524.98Gastos de Investigaci\u00f3n y Desarrollo---7.28Depreciaci\u00f3n / Amortizaci\u00f3n----Intereses pagados (Utilidad), Neto---0.42-Gastos extraordinarios (Utilidad)----Otros gastos de Operaci\u00f3n, Total2.52-0.44410.34-11.02",
+        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total",
+        "31.86",
+        "41.65",
+        "69.35",
+        "24.98",
+        "Gastos de Investigaci\u00f3n y Desarrollo",
+        "-",
+        "-",
+        "-",
+        "7.28",
+        "Depreciaci\u00f3n / Amortizaci\u00f3n",
+        "-",
+        "-",
+        "-",
+        "-",
+        "Intereses pagados (Utilidad), Neto",
+        "-",
+        "-",
+        "-0.42",
+        "-",
+        "Gastos extraordinarios (Utilidad)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "Otros gastos de Operaci\u00f3n, Total",
+        "2.52",
+        "-0.444",
+        "10.34",
+        "-11.02"
+      ],
+      [
+        "Venta y administraci\u00f3n General /Mantenimiento/ Renta de equipo, Total",
+        "31.86",
+        "41.65",
+        "69.35",
+        "24.98"
+      ],
+      [
+        "Gastos de Investigaci\u00f3n y Desarrollo",
+        "-",
+        "-",
+        "-",
+        "7.28"
+      ],
+      [
+        "Depreciaci\u00f3n / Amortizaci\u00f3n",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Intereses pagados (Utilidad), Neto",
+        "-",
+        "-",
+        "-0.42",
+        "-"
+      ],
+      [
+        "Gastos extraordinarios (Utilidad)",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Otros gastos de Operaci\u00f3n, Total",
+        "2.52",
+        "-0.444",
+        "10.34",
+        "-11.02"
+      ],
+      [
+        "Utilidad de operaci\u00f3n",
+        "13.48",
+        "7.22",
+        "-18.32",
+        "31.27"
+      ],
+      [
+        "Gastos por intereses neto + Participaci\u00f3n en los resultados de compa\u00f1\u00edas asociadas",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Utilidad en venta de activos fijos, neto",
+        "2.32",
+        "-0.415",
+        "0.864",
+        "-1.82"
+      ],
+      [
+        "Otros, neto",
+        "-15.28",
+        "0.492",
+        "-41.34",
+        "-1.13"
+      ],
+      [
+        "Resultado antes de los impuestos a la utilidad",
+        "26.44",
+        "7.15",
+        "22.16",
+        "34.21"
+      ],
+      [
+        "Total de impuestos a la utilidad",
+        "-0.06",
+        "-",
+        "0.327",
+        "0.038"
+      ],
+      [
+        "Resultado neto despu\u00e9s de impuestos a la utilidad",
+        "26.5",
+        "7.15",
+        "21.83",
+        "34.17"
+      ],
+      [
+        "Participaci\u00f3n no controladora",
+        "27.54",
+        "27.24",
+        "27.7",
+        "27.17"
+      ],
+      [
+        "Participaci\u00f3n en el resultado de de subsidiarias y asociadas",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Ajuste US PCGA (GAAP)",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Resultado antes de partidas extraordinarias",
+        "26.21",
+        "7.6",
+        "21.24",
+        "34.35"
+      ],
+      [
+        "Total de partidas extraordinarias",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Resultado neto",
+        "26.21",
+        "7.6",
+        "21.24",
+        "34.35"
+      ],
+      [
+        "Ajuste total al resultado Neto",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Ingreso disponible excluyendo partidas extraordinarias",
+        "26.21",
+        "7.6",
+        "21.24",
+        "34.35"
+      ],
+      [
+        "Ajuste de diluci\u00f3n",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Diluci\u00f3n de Utilidad neta",
+        "26.21",
+        "7.6",
+        "21.24",
+        "34.35"
+      ],
+      [
+        "Diluci\u00f3n de promedio ponderado de acciones",
+        "561.39",
+        "584.99",
+        "558.56",
+        "587.14"
+      ],
+      [
+        "Diluci\u00f3n de las ganancias por acci\u00f3n excluyendo partidas extraordinarias",
+        "0.047",
+        "0.013",
+        "0.038",
+        "0.058"
+      ],
+      [
+        "Dividendo por acci\u00f3n - Acciones Comunes distribuci\u00f3n primaria",
+        "-",
+        "-",
+        "0.045",
+        "-"
+      ],
+      [
+        "Diluci\u00f3n de las ganancias por acci\u00f3n b\u00e1sicas",
+        "0.024",
+        "0.009",
+        "-0.009",
+        "0.043"
+      ]
+    ]
+  }
+}

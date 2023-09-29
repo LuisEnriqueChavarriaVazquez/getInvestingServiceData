@@ -334,7 +334,7 @@
         "481736.09"
       ],
       [
-        "Deuda a largo plazo, Total-5150.63097.346018.53Deuda a largo plazo-5127.991528.884665.68Obligaciones por contratos de arrendamiento financiero-22.611568.461352.85Impuesto a las ganancias diferido----Participaci\u00f3n no controladora-89.5373.6464.14Otros pasivos, Total--564874.03-553418.33-427276.85",
+        "Deuda a largo plazo, Total-5150.63097.346018.53Deuda a largo plazo-5127.991528.884665.68Obligaciones por contratos de arrendamiento financiero-22.611568.461352.85Impuesto a las ganancias diferido----Participaci\u00f3n no controladora-89.5373.6464.14Otros pasivos, Total-800924.24-564874.03-553418.33-427276.85",
         "Deuda a largo plazo, Total",
         "-",
         "5150.6",
@@ -361,7 +361,7 @@
         "73.64",
         "64.14",
         "Otros pasivos, Total",
-        "-",
+        "-800924.24",
         "-564874.03",
         "-553418.33",
         "-427276.85"
@@ -403,7 +403,7 @@
       ],
       [
         "Otros pasivos, Total",
-        "-",
+        "-800924.24",
         "-564874.03",
         "-553418.33",
         "-427276.85"
